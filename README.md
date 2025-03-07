@@ -1,5 +1,5 @@
 # Welcome
 
 
-[House Stuff](https://teoka.github.io/hobbies/house.html)
+[Hobbies](https://teoka.github.io/hobbies.html)
 
