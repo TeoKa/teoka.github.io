@@ -1,10 +1,10 @@
 # Welcome
 
-The goal of this website is to show my persona fully.
+The goal of this website is to show **my persona fully**.
 
 ## ABOUT ME
 
-I am Product Owner and I hold a PhD in Robotics.  
+I am **Product Owner** and I hold a **PhD in Robotics**.  
 
 An analytical and creative Product Manager, passionate about building innovative solutions in the payments industry, with a strong background in technology, automation, and robotics.  
 
@@ -24,6 +24,6 @@ and filmmaking.
 - Regularly visit my family and my 
 dog Bracco in Tuscany.
 
+## CONTACT ME
 
-  
-
+via [LinkedIn](https://www.linkedin.com/in/matteociocca/).
