@@ -10,11 +10,11 @@ Beyond my work, I’m a creative **thinker and an explorer**. Whether it’s fil
 
 ## ABOUT ME
 
-I am Friendly, Autonomous, self-driven, team player, adaptable, and fast learner (Jump to my [CV](https://teoka.github.io/career/CV.html)).
+I am Friendly, Autonomous, self-driven, team player, adaptable, and fast learner (**Jump to my [CV](https://teoka.github.io/career/CV.html)**).
 
 ## Professional Side
 
-- Product Manager with expertise in Payments, Robotics, and Software Development and Life Cycle.
+- **Product Owner** with expertise in Payments, Robotics, and Software Development and Life Cycle.
 - Background in Robotics & Automation (PhDLINK), with strong analytical and problem-solving skills.
 - Experienced in working with international teams (Jakarta, Paris) and Agile methodologies.
 - Passionate about innovationLINK, with a track record in competitionsLINK.
@@ -22,7 +22,7 @@ I am Friendly, Autonomous, self-driven, team player, adaptable, and fast learner
 
 ## Personal Side
 
-- Explorer & Multicultural – Lived and studied in Italy, the Netherlands, and France.
+- **Explorer & Multicultural** – Lived and studied in Italy, the Netherlands, and France.
 - Competitive & Determined LINK– Ran the Paris Marathon in 2021.
 - Creative & Artistic LINK– Loves painting, filmmaking, and crafting.
 - Social & Active LINK– Plays soccer, tennis, and salsa dancing.
@@ -31,17 +31,11 @@ I am Friendly, Autonomous, self-driven, team player, adaptable, and fast learner
 
 ## PERSONAL INTERESTS 
  
-- Sport Addicted specifically played 
-tournaments of soccer (9 years) and 
-tennis (6 years).
-- Finisher of Paris Marathon (2021) 
-and Paris-Versailles (2024). 
-- Explored activities as painting, 
-dancing salsa surf and crafting. 
-- Enthusiast in computer graphics 
-and filmmaking. 
-- Regularly visit my family and my 
-dog Bracco in Tuscany.
+- Sport Addicted specifically played tournaments of soccer (9 years) and tennis (6 years).
+- Finisher of Paris Marathon (2021) and Paris-Versailles (2024). 
+- Explored activities as painting, dancing salsa surf and crafting. 
+- Enthusiast in computer graphics and filmmaking. 
+- Regularly visit my family and my dog Bracco in Tuscany.
 
 ## CONTACT ME
 
