@@ -13,22 +13,23 @@
 ## IDEMIA (Paris) 🇫🇷
 
 ### Product Owner, November 2021 - present (3 years)
-- Reduced payment and identity card personalization timing by 75%, enhancing factory throughput and client satisfaction.
-- Collaborated with 5+ global stakeholders to define product vision and prioritize features for software servicing 1M+ cards annually.
-- Product: factory software that installs payment and identity card software onto chips.
+
+- **Reduced ** payment and identity card **personalization time by 75%**, enhancing factory throughput 🏭 and client satisfaction 😃.
+- **Collaborated** with **5+ global stakeholders 🌍** to define product vision and prioritize features for software servicing **1M+ cards annually 💳**.
+- **Product**: Factory software that installs **payment & identity card software onto chips 🏦💾**.
 
 ### R&D Engineer, November 2020 - October 2021 (1 years)
 
-- Winner as Team Leader of IDEMIA Innovathon with an industrial operational method to reduce environmental impact by 80%.
-- Led the CBDC Project at IDEMIA in partnership with ConsenSys, leveraging blockchain solutions to enhance digital currency infrastructure for financial institutions.
-- Deployed a software to reduce test development and execution time by 50%. Expanded python and JAVA company framework.
+- **🏆 Winner 🥇 as Team Leader** of the IDEMIA **Innovathon**, reducing environmental impact 🌱 by **80%**.
+- **💰 Led the CBDC Project 💵** at IDEMIA in partnership with **ConsenSys**, leveraging **blockchain solutions 🔗** to enhance digital currency infrastructure for financial institutions.
+- **⚡Deployed software** to reduce **test development & execution time by 50%**, expanding **Python 🐍 and Java ☕ frameworks**.
 
-## INRIA (Grenoble)
+## INRIA (Grenoble) 🇫🇷
 
 ### Researcher, March 2017 - September 2020 (3.5 years)
 
-- Pioneer research on motion safety for autonomous systems with 2+ scientific articles on robotics and autonomous vehicles. [web]
-- Hands-on HRP2 humanoid robot and C++ motion planning framework.
+- **📜 Pioneered research 🔬** on **motion safety for autonomous systems 🚗** with 2+ scientific articles on robotics and autonomous vehicles.
+- 🤖 Hands-on experience with **HRP2 humanoid robot** & **C++ motion planning framework 💻.**
 
 ## INTERSHIPS
 
