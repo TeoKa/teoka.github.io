@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 title: Matteo Ciocca's homepage
 
 # show/remove downloads bottoms
-logo: teoka.github.io/career/photos/me_web.jpg
+logo: /career/photos/me_web.jpg
 
 # show/remove downloads bottoms
 show_downloads: false
