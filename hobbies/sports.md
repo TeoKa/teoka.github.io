@@ -14,3 +14,4 @@ A mix of **strategy and precision**, much like the problem-solving approach I br
 ## Salsa Dancer
 Because agility isn’t just for sports—it's also about rhythm, **adaptability, and connecting with people**.
 
+## [Back to Main Page](https://teoka.github.io)
