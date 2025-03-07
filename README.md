@@ -15,9 +15,11 @@ I am Friendly, Autonomous, self-driven, team player, adaptable, and fast learner
 ## Professional Side
 
 - **Product Owner** with expertise in Payments, Robotics, and Software Development and Life Cycle.
-- Background in Robotics & Automation (PhDLINK), with strong analytical and problem-solving skills.
-- Experienced in working with international teams (Jakarta, Paris) and Agile methodologies.
-- Passionate about innovationLINK, with a track record in competitionsLINK.
+- Background in **Robotics & Automation (PhD)**, with strong analytical and problem-solving skills.
+- [More](https://teoka.github.io/hobbies/sports.html) About Education.
+- Experienced in working with international teams (Jakarta, Paris) and **Agile methodologies**.
+- Passionate about **Innovation**, with a track record in competitions.
+- [More](https://teoka.github.io/hobbies/sports.html) About Work.
 - Structured, data-driven, and strategic, but also adaptable and open to creativity.
 
 ## Personal Side
@@ -27,7 +29,7 @@ I am Friendly, Autonomous, self-driven, team player, adaptable, and fast learner
 - Social & Active – Plays **soccer, tennis, and salsa dancing**.
 - [More](https://teoka.github.io/hobbies/sports.html) About Sports & Challenges.
 - Creative & Artistic – Loves **painting, filmmaking, and crafting**.
-- Community-Driven – Co-founded **Boxalmatch**, combining tech and entertainment with friends.
+- Community-Driven – Co-believer **Boxalmatch**, combining tech and entertainment with friends.
 - [More](https://teoka.github.io/hobbies/sports.html) Entrepreneurship.
 
 ## PERSONAL INTERESTS 
