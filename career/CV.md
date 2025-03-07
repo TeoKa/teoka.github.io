@@ -1,5 +1,3 @@
-# WIP
-
 # CAREER
 Ambitious and results-driven professional
 seeking to contribute to a high-performing team by
