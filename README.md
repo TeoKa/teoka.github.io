@@ -16,10 +16,10 @@ I am Friendly, Autonomous, self-driven, team player, adaptable, and fast learner
 
 - **Product Owner** with expertise in Payments, Robotics, and Software Development and Life Cycle.
 - Background in **Robotics & Automation (PhD)**, with strong analytical and problem-solving skills.
-- [More](https://teoka.github.io/hobbies/sports.html) About Education.
+- [More](https://teoka.github.io/hobbies/sports.html) About <ins>Education</ins>.
 - Experienced in working with international teams (Jakarta, Paris) and **Agile methodologies**.
 - Passionate about **Innovation**, with a track record in competitions.
-- [More](https://teoka.github.io/hobbies/sports.html) About Work.
+- [More](https://teoka.github.io/hobbies/sports.html) About <ins>Work</ins>.
 - Structured, data-driven, and strategic, but also adaptable and open to creativity.
 
 ## Personal Side
@@ -27,11 +27,11 @@ I am Friendly, Autonomous, self-driven, team player, adaptable, and fast learner
 - Explorer & Multicultural – Lived and studied in **Italy, the Netherlands, and France**.
 - Competitive & Determined – Ran the **Paris Marathon in 2021**. 
 - Social & Active – Plays **soccer, tennis, and salsa dancing**.
-- [More](https://teoka.github.io/hobbies/sports.html) About Sports & Challenges.
+- [More](https://teoka.github.io/hobbies/sports.html) About <ins>Sports & Challenges</ins>.
 - Creative & Artistic – Loves **painting, filmmaking, and crafting**.
 - Community-Driven – Co-believer **Boxalmatch**, combining tech and entertainment with friends.
 - Regularly visit my family and **my dog Bracco** in Tuscany.
-- [More](https://teoka.github.io/hobbies/sports.html) Entrepreneurship.
+- [More](https://teoka.github.io/hobbies/sports.html) About <ins>Entrepreneurship</ins>.
 
 ## CONTACT ME
 
