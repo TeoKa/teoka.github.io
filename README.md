@@ -4,7 +4,9 @@ The goal of this website is to show my persona fully.
 
 ## ABOUT ME
 
-I am Product Owner and I hold a PhD in Robotics. I am Friendly, Autonomous, self-driven, team player, adaptable, and fast learner (Jump to my [CV](https://teoka.github.io/career/CV.html)).
+I am Product Owner and I hold a PhD in Robotics.  
+An analytical and creative Product Manager, passionate about building innovative solutions in the payments industry, with a strong background in technology, automation, and robotics.  
+I am Friendly, Autonomous, self-driven, team player, adaptable, and fast learner (Jump to my [CV](https://teoka.github.io/career/CV.html)).
 
 ## PERSONAL INTERESTS 
  
