@@ -1,14 +1,31 @@
 # Welcome
 
-The goal of this website is to show **my persona fully**.
+I'm a Product Owner with a passion for building innovative solutions. With a background in **Robotics and Automation (Ph.D.)**, I thrive at the intersection of **technology, strategy, and user experience**. Working with international **teams across Jakarta and Paris**, I bring a global perspective and a structured, analytical approach to problem-solving.
+
+Beyond my work, I’m a creative thinker and an explorer. Whether it’s filmmaking, painting, crafting, or dancing salsa, I love blending logic with creativity. As a Paris Marathon finisher and a competitive sports enthusiast, I approach challenges with determination and adaptability.
+
+🚀 Let’s connect and create something impactful together!
 
 ## ABOUT ME
 
-I am **Product Owner** and I hold a **PhD in Robotics**.  
-
-An analytical and creative Product Manager, passionate about building innovative solutions in the payments industry, with a strong background in technology, automation, and robotics.  
-
 I am Friendly, Autonomous, self-driven, team player, adaptable, and fast learner (Jump to my [CV](https://teoka.github.io/career/CV.html)).
+
+## Professional Side
+
+- Product Manager with expertise in Payments, Robotics, and Software Development and Life Cycle.
+- Background in Robotics & Automation (PhDLINK), with strong analytical and problem-solving skills.
+- Experienced in working with international teams (Jakarta, Paris) and Agile methodologies.
+- Passionate about innovationLINK, with a track record in competitionsLINK.
+- Structured, data-driven, and strategic, but also adaptable and open to creativity.
+
+## Personal Side
+
+- Explorer & Multicultural – Lived and studied in Italy, the Netherlands, and France.
+- Competitive & Determined LINK– Ran the Paris Marathon in 2021.
+- Creative & Artistic LINK– Loves painting, filmmaking, and crafting.
+- Social & Active LINK– Plays soccer, tennis, and salsa dancing.
+- Community-Driven – Co-founded BoxalmatchLINK, combining tech and entertainment with friends.
+
 
 ## PERSONAL INTERESTS 
  
