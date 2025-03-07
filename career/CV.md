@@ -76,4 +76,5 @@ fast-paced environments.
 
 - 2023, AI for Product Management on COURSERA
 
+## [Back to Main Page](https://teoka.github.io)
 
