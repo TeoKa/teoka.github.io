@@ -19,7 +19,7 @@ I am **Friendly**, **Autonomous**, **self-driven**, team player, adaptable, and 
 - **[More](https://teoka.github.io/career/education.html) About <ins>Education</ins>**.
 - Experienced in working with **🌍international teams** (Jakarta, Paris) and **Agile methodologies 🔄**.
 - 🏆 Passionate about **Innovation**, with a track record in competitions 🏅.
-- [More](https://teoka.github.io/career/work.html) About <ins>Work</ins>.
+- **[More](https://teoka.github.io/career/work.html) About <ins>Work</ins>**.
 - 🔬 Structured, data-driven, and strategic, but also adaptable and open to creativity 🎨.
 
 ## Personal Side
