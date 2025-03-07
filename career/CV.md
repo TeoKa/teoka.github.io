@@ -1,3 +1,5 @@
+# WIP
+
 # CAREER
 Ambitious and results-driven professional
 seeking to contribute to a high-performing team by
@@ -64,6 +66,6 @@ fast-paced environments.
 - Leadership: Team mentoring, cross-functional collaboration, project management.
 
 
-
+# EDUCATION EXPERIENCE
 
 
