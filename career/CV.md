@@ -1,4 +1,4 @@
-# CAREER
+# Curriculum Vitae
 Ambitious and results-driven professional
 seeking to contribute to a high-performing team by
 leveraging expertise in product management, data analysis,
