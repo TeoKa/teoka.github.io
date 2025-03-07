@@ -16,10 +16,10 @@ I am Friendly, Autonomous, self-driven, team player, adaptable, and fast learner
 
 - **Product Owner** with expertise in Payments, Robotics, and Software Development and Life Cycle.
 - Background in **Robotics & Automation (PhD)**, with strong analytical and problem-solving skills.
-- [More](https://teoka.github.io/hobbies/sports.html) About <ins>Education</ins>.
+- [More](https://teoka.github.io/career/education.html) About <ins>Education</ins>.
 - Experienced in working with international teams (Jakarta, Paris) and **Agile methodologies**.
 - Passionate about **Innovation**, with a track record in competitions.
-- [More](https://teoka.github.io/hobbies/sports.html) About <ins>Work</ins>.
+- [More](https://teoka.github.io/career/work.html) About <ins>Work</ins>.
 - Structured, data-driven, and strategic, but also adaptable and open to creativity.
 
 ## Personal Side
