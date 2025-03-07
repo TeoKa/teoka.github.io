@@ -43,7 +43,7 @@ fast-paced environments.
 - Improved actuator torque estimation of robot knees using estimation algorithms.
 - Hands-on iCub humanoid robot and MATLAB estimation algorithms.
 
-## perClass in Delft, September 2024 - December 2014
+### perClass in Delft, September 2024 - December 2014 (4 months)
 
 - Improved gender classifier for spectral image interpretation using machine learning. Showcased the solution to 2 worldwide trade fairs in Munich and Eindhoven.
 - Product: perClass MATLAB toolbox.
