@@ -7,7 +7,8 @@ Sports have always been a big part of my life, shaping my mindset both personall
 - Running with KIIN Paris: As part of this vibrant running community, I push my limits while connecting with like-minded athletes. Running isn’t just about speed—it’s about consistency, resilience, and self-improvement.
 
 ## Soccer Enthusiast
-A lifelong passion that taught me teamwork, quick decision-making, and adaptability.
+- A lifelong passion that taught me teamwork, quick decision-making, and adaptability.
+- Not only with friends but also with colleagues! (*You cannot do a good Job is Job is the only thing you do*).
 
 ## Tennis Player
 A mix of strategy and precision, much like the problem-solving approach I bring to work.
