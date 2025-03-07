@@ -71,9 +71,9 @@ fast-paced environments.
 
 # SKILLS
 
-- Product Management: Product lifecycle management, customer journey mapping, Agile Methodologies.
-- Technical Skills: Python, JIRA, C++, Git, payment ecosystem, compliance familiarity.
-- AI and Data Science: Machine Learning, Data Analysis.
-- Leadership: Team mentoring, cross-functional collaboration, project management.
+- **Product Management**: Product lifecycle management, customer journey mapping, Agile Methodologies.
+- **Technical Skills**: Python, JIRA, C++, Git, payment ecosystem, compliance familiarity.
+- **AI and Data Science**: Machine Learning, Data Analysis.
+- **Leadership**: Team mentoring, cross-functional collaboration, project management.
 
 ## [Back to Main Page](https://teoka.github.io)
