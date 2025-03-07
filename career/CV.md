@@ -14,7 +14,7 @@
 
 ### Product Owner, November 2021 - present (3 years)
 
-- **Reduced ** payment and identity card **personalization time by 75%**, enhancing factory throughput 🏭 and client satisfaction 😃.
+- **Reduced** payment and identity card **personalization time by 75%**, enhancing factory throughput 🏭 and client satisfaction 😃.
 - **Collaborated** with **5+ global stakeholders 🌍** to define product vision and prioritize features for software servicing **1M+ cards annually 💳**.
 - **Product**: Factory software that installs **payment & identity card software onto chips 🏦💾**.
 
