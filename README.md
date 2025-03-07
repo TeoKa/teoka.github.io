@@ -31,7 +31,7 @@ I am Friendly, Autonomous, self-driven, team player, adaptable, and fast learner
 - Creative & Artistic – Loves **painting, filmmaking, and crafting**.
 - Community-Driven – Co-believer **Boxalmatch**, combining tech and entertainment with friends.
 - Regularly visit my family and **my dog Bracco** in Tuscany.
-- [More](https://teoka.github.io/hobbies/sports.html) About <ins>Entrepreneurship</ins>.
+- [More](https://teoka.github.io/hobbies/entrepreneurship.html) About <ins>Entrepreneurship</ins>.
 
 ## CONTACT ME
 
