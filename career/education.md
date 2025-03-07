@@ -1,6 +1,6 @@
 # Education Projects
 
-# Academic Research [Google Scholar Account](https://scholar.google.fr/citations?user=V5lAMN4AAAAJ&hl=fr)
+# Academic Research ([Google Scholar Account](https://scholar.google.fr/citations?user=V5lAMN4AAAAJ&hl=fr))
 
 - 
 
