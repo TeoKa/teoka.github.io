@@ -2,9 +2,9 @@
 
 ## IDEMIA
 
-### Winner Innovathon
+### Winner of IDEMIA Innovathon
 
-### Finalist MAS Challenge
+### Finalist of MAS Challenge
 
 ## INRIA
 
