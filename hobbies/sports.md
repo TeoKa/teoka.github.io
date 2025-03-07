@@ -1,4 +1,4 @@
-# SPORTS
+# Sports & Challenges
 
 Sports have always been a big part of my life, shaping my mindset both personally and professionally. I thrive on discipline, perseverance, and strategy—whether I’m on the field, the court, or the track.
 
