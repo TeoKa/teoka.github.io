@@ -4,8 +4,8 @@
 
 # SUMMARY
 
-**💼 Product Owner with 3+ years of experience** leading **cross-functional teams** to deliver **innovative software solutions**.
-✔️ Proven ability to **drive product vision 🚀, streamline operations ⚙️, and align technical & business stakeholders.**
+**💼 Product Owner with 3+ years of experience** leading **cross-functional teams** to deliver **innovative software solutions**.  
+✔️ Proven ability to **drive product vision 🚀, streamline operations ⚙️, and align technical & business stakeholders.**  
 ✔️ Passionate about **user-centered, data-driven products 📊 in fast-paced environments.**
 
 # PROFESSIONAL EXPERIENCE ([More](https://teoka.github.io/career/work.html))
