@@ -61,8 +61,6 @@ fast-paced environments.
 
 - 2023, AI for Product Management on COURSERA
 
-## [Back to Main Page](https://teoka.github.io)
-
 # TRAININGS
 
 - Leadership: Cross-Functional Manager, Team Manager (CEGOS), State of the Art BI (ORSYS), Business Plan, Time Management (INRIA).
@@ -78,4 +76,4 @@ fast-paced environments.
 - AI and Data Science: Machine Learning, Data Analysis.
 - Leadership: Team mentoring, cross-functional collaboration, project management.
 
-
+## [Back to Main Page](https://teoka.github.io)
