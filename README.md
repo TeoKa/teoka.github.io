@@ -1,5 +1,7 @@
 # Welcome
 
+The goal of this website is to show my persona fully.
+
 ## ABOUT ME
 
 I am Product Owner and I hold a PhD in Robotics. I am Friendly, Autonomous, self-driven, team player, adaptable, and fast learner (Jump to my [CV](https://teoka.github.io/career/CV.html)).
