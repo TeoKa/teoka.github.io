@@ -23,9 +23,9 @@ I am Friendly, Autonomous, self-driven, team player, adaptable, and fast learner
 ## Personal Side
 
 - **Explorer & Multicultural** – Lived and studied in Italy, the Netherlands, and France.
-- Competitive & Determined LINK– Ran the Paris Marathon in 2021.
-- Creative & Artistic LINK– Loves painting, filmmaking, and crafting.
-- Social & Active LINK– Plays soccer, tennis, and salsa dancing.
+- Competitive & Determined – Ran the Paris Marathon in 2021 ([More](https://teoka.github.io/hobbies/sports.html)).
+- Creative & Artistic – Loves painting, filmmaking, and crafting ([More](https://teoka.github.io/hobbies/sports.html)).
+- Social & Active – Plays soccer, tennis, and salsa dancing ([More](https://teoka.github.io/hobbies/sports.html)).
 - Community-Driven – Co-founded BoxalmatchLINK, combining tech and entertainment with friends.
 
 
