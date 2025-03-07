@@ -48,6 +48,21 @@ fast-paced environments.
 - Improved gender classifier for spectral image interpretation using machine learning. Showcased the solution to 2 worldwide trade fairs in Munich and Eindhoven.
 - Product: perClass MATLAB toolbox.
 
+
+# EDUCATION EXPERIENCE ([More](https://teoka.github.io/career/education.html))
+
+## Degrees
+
+- 2020, Ph.D. in Robotics at INRIA in Grenoble 
+- 2016, M.Sc. in Engineering at TU Delft 
+- 2013, B.Sc. in Engineering at Polytechnic of Milan
+
+## Online Specialization
+
+- 2023, AI for Product Management on COURSERA
+
+## [Back to Main Page](https://teoka.github.io)
+
 # TRAININGS
 
 - Leadership: Cross-Functional Manager, Team Manager (CEGOS), State of the Art BI (ORSYS), Business Plan, Time Management (INRIA).
@@ -63,17 +78,4 @@ fast-paced environments.
 - AI and Data Science: Machine Learning, Data Analysis.
 - Leadership: Team mentoring, cross-functional collaboration, project management.
 
-# EDUCATION EXPERIENCE ([More](https://teoka.github.io/career/education.html))
-
-## Degrees
-
-- 2020, Ph.D. in Robotics at INRIA in Grenoble 
-- 2016, M.Sc. in Engineering at TU Delft 
-- 2013, B.Sc. in Engineering at Polytechnic of Milan
-
-## Online Specialization
-
-- 2023, AI for Product Management on COURSERA
-
-## [Back to Main Page](https://teoka.github.io)
 
