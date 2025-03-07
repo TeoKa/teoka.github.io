@@ -13,7 +13,7 @@ and ensure alignment between technical and business stakeholders.
 Passionate about delivering user-centered, data-driven products in
 fast-paced environments.
 
-# PROFESSIONAL EXPERIENCE
+# PROFESSIONAL EXPERIENCE ([More](https://teoka.github.io/career/work.html))
 
 ## IDEMIA (Paris)
 
@@ -63,8 +63,7 @@ fast-paced environments.
 - AI and Data Science: Machine Learning, Data Analysis.
 - Leadership: Team mentoring, cross-functional collaboration, project management.
 
-
-# EDUCATION EXPERIENCE
+# EDUCATION EXPERIENCE ([More](https://teoka.github.io/career/education.html))
 
 ## Degrees
 
