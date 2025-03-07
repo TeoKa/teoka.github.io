@@ -68,4 +68,14 @@ fast-paced environments.
 
 # EDUCATION EXPERIENCE
 
+## Degrees
+
+- 2020, Ph.D. in Robotics at INRIA in Grenoble 
+- 2016, M.Sc. in Engineering at TU Delft 
+- 2013, B.Sc. in Engineering at Polytechnic of Milan
+
+## Online Specialization
+
+- 2023, AI for Product Management on COURSERA
+
 
