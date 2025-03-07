@@ -30,7 +30,7 @@ I am Friendly, Autonomous, self-driven, team player, adaptable, and fast learner
 - [More](https://teoka.github.io/hobbies/sports.html) About Sports & Challenges.
 - Creative & Artistic – Loves **painting, filmmaking, and crafting**.
 - Community-Driven – Co-believer **Boxalmatch**, combining tech and entertainment with friends.
-- Regularly visit my family and my dog Bracco in Tuscany.
+- Regularly visit my family and **my dog Bracco** in Tuscany.
 - [More](https://teoka.github.io/hobbies/sports.html) Entrepreneurship.
 
 ## CONTACT ME
