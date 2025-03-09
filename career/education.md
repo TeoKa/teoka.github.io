@@ -9,6 +9,9 @@
 
 ## AI for Product Management ([Post](https://www.linkedin.com/posts/matteociocca_virtual-assistant-for-violence-prevention-activity-7110728554371244032-jilg?utm_source=share&utm_medium=member_desktop&rcm=ACoAABN7odwBCTSkSQQbgUbxRNshm2Aiwhhjvqs))
 
+Given a set of 9568 hourly average ambient environmental readings from sensors of a Combined Cycle Power Plant (CCPP), build a model to predict the electrical energy output of the CCPP, which uses a combination of gas turbines, steam turbines, and heat recovery steam generators to generate power.
+
+
 Choose a project topic and then work through a series of steps to evaluate the opportunity, walk through the Business Understanding phase of the CRISP-DM process for it, develop a validation plan for the solution, consider key Machine Learning system design decisions, and identify potential issues that may affect the final model in production.
 
 
