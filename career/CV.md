@@ -1,12 +1,12 @@
 # Curriculum Vitae
 
-**🎯 Ambitious and results-driven professional** seeking to contribute to a **high-performing team** by leveraging expertise in **product management 🚀, data analysis 📊, and cross-functional collaboration 🤝** to create **extraordinary value through innovation and excellence 💡**.
+**🎯 Ambitious and results-driven professional** seeking to contribute to a high-performing team by leveraging **expertise in product management 🚀**, data analysis 📊, and cross-functional collaboration 🤝 to create extraordinary value through innovation and excellence 💡.
 
 # SUMMARY
 
-**💼 Product Owner with 3+ years of experience** leading **cross-functional teams** to deliver **innovative software solutions**.  
-✔️ Proven ability to **drive product vision 🚀, streamline operations ⚙️, and align technical & business stakeholders.**  
-✔️ Passionate about **user-centered, data-driven products 📊 in fast-paced environments.**
+**💼 Product Owner with 3+ years of experience** leading cross-functional teams to deliver innovative software solutions.  
+✔️ Proven ability to drive product vision 🚀, streamline operations ⚙️, and align technical & business stakeholders.  
+✔️ Passionate about user-centered, data-driven products 📊 in fast-paced environments.
 
 # PROFESSIONAL EXPERIENCE ([More](https://teoka.github.io/career/work.html))
 
@@ -20,16 +20,16 @@
 
 ### R&D Engineer, November 2020 - October 2021 (1 years)
 
-- **🏆 Winner 🥇 as Team Leader** of the IDEMIA **Innovathon**, reducing environmental impact 🌱 by **80%**.
-- **💰 Led the CBDC Project 💵** at IDEMIA in partnership with **ConsenSys**, leveraging **blockchain solutions 🔗** to enhance digital currency infrastructure for financial institutions.
-- **⚡Deployed software** to reduce **test development & execution time by 50%**, expanding **Python 🐍 and Java ☕ frameworks**.
+- **🏆 Winner 🥇 as Team Leader** of the IDEMIA Innovathon, reducing environmental impact 🌱 by 80%.
+- **💰 Led the CBDC Project 💵** at IDEMIA in partnership with ConsenSys, leveraging blockchain solutions 🔗 to enhance digital currency infrastructure for financial institutions.
+- **⚡Deployed software** to reduce test development & execution time by 50%, expanding Python 🐍 and Java ☕ frameworks.
 
 ## INRIA (Grenoble) 🇫🇷
 
 ### Researcher, March 2017 - September 2020 (3.5 years)
 
 - **📜 Pioneered research 🔬** on **motion safety for autonomous systems 🚗** with 2+ scientific articles on robotics and autonomous vehicles.
-- 🤖 Hands-on experience with **HRP2 humanoid robot** & **C++ motion planning framework 💻.**
+- 🤖 Hands-on experience with HRP2 humanoid robot & C++ motion planning framework 💻.
 
 ## INTERSHIPS
 
