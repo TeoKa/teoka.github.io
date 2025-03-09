@@ -26,7 +26,7 @@ I am **Friendly**, **Autonomous**, **self-driven**, team player, adaptable, and 
 
 - Explorer & Multicultural – Lived and studied in **Italy 🇮🇹, the Netherlands 🇳🇱, and France 🇫🇷**.
 - Competitive & Determined – Ran the **Paris Marathon in 2021 🏅**. 
-- 🏃‍♂️ Social & Active – Plays **soccer ⚽, tennis 🎾, and salsa 💃**.
+- 🏃‍♂️ Social & Active – **soccer ⚽, tennis 🎾, and salsa 💃**.
 - **More About [Sports & Challenges](https://teoka.github.io/hobbies/sports.html)**.
 - 🎨 Creative & Artistic – Loves **painting, filmmaking, and crafting**.
 - 👥 Community-Driven – Co-believer **Boxalmatch**, combining **tech 💻, entertainment 🎭, and friendship 🤝**.
