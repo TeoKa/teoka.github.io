@@ -6,6 +6,9 @@
 
 ### Finalist of MAS Challenge ([Post](https://www.linkedin.com/feed/update/urn:li:activity:6863963277739732992/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6863963277739732992%29))
 
+Revealed during the MAS Global CBDC Challenge hackathon, this solution paves the way for the future of money by allowing everyone to use digital cash, anywhere and anytime.
+
+
 ## INRIA
 
 ### Safe MPC-based Control for Self-Driving Transit Bus
