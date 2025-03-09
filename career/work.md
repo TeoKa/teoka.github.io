@@ -4,7 +4,7 @@
 
 ### Common Personalization System ([CPS](https://www.idemia.com/card-personalization-services))
 
-CPS is a proprietary software used in worldwide IDEMIA factories to industrialize products. Specifically in the industrialization, CPS is used to install software in chip cards, part of cards personalization process.
+I am Product Owner of CPS. It is a proprietary software used in worldwide IDEMIA factories to industrialize products. Specifically in the industrialization, CPS is used to install software in chip cards, part of cards personalization process.
 
 
 ### Winner of IDEMIA Innovathon ([Post](https://www.linkedin.com/posts/matteociocca_sustainability-innovation-daring-activity-6909524647956914176-79p2?utm_source=share&utm_medium=member_desktop&rcm=ACoAABN7odwBCTSkSQQbgUbxRNshm2Aiwhhjvqs))
