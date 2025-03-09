@@ -18,7 +18,7 @@ I am **Friendly**, **Autonomous**, **self-driven**, team player, adaptable, and 
 - Background in **Robotics & Automation (PhD) 🤖**, with strong analytical and problem-solving skills.
 - **More About [Education](https://teoka.github.io/career/education.html)**.
 - Experienced in working with **🌍international teams** (Jakarta, Paris) and **Agile methodologies 🔄**.
-- 🏆 Passionate about **Innovation**, with a track record in competitions 🏅.
+- 🏆 Passionate about **Innovation**, with track record in competitions 🏅.
 - **More About [Work](https://teoka.github.io/career/work.html)**.
 - 🔬 Structured, data-driven, and strategic, but also adaptable and open to creativity 🎨.
 
@@ -26,7 +26,7 @@ I am **Friendly**, **Autonomous**, **self-driven**, team player, adaptable, and 
 
 - Explorer & Multicultural – Lived and studied in **Italy 🇮🇹, the Netherlands 🇳🇱, and France 🇫🇷**.
 - Competitive & Determined – Ran the **Paris Marathon in 2021 🏅**. 
-- 🏃‍♂️ Social & Active – Plays **soccer ⚽, tennis 🎾, and dances salsa 💃**.
+- 🏃‍♂️ Social & Active – Plays **soccer ⚽, tennis 🎾, and salsa 💃**.
 - **More About [Sports & Challenges](https://teoka.github.io/hobbies/sports.html)**.
 - 🎨 Creative & Artistic – Loves **painting, filmmaking, and crafting**.
 - 👥 Community-Driven – Co-believer **Boxalmatch**, combining **tech 💻, entertainment 🎭, and friendship 🤝**.
