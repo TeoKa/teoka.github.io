@@ -12,6 +12,8 @@
 
 ## IIT
 
+My work focus on the Estimataion of Joint Torque at Knee Level of Humanoid Robot iCub. Moreover, I was co-author of a work on optimal impedances for completing a safe and stable foothold in uneven terrain ([Article]([https://teoka.github.io/career/CV.html](https://ieeexplore.ieee.org/abstract/document/7803270))).
+
 ### Estimation
 
 ## perClass
