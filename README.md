@@ -16,10 +16,10 @@ I am **Friendly**, **Autonomous**, **self-driven**, team player, adaptable, and 
 
 - **👨‍💻 Product Owner** with expertise in Payments 💳, Robotics, and Software Development and Life Cycle.
 - Background in **Robotics & Automation (PhD) 🤖**, with strong analytical and problem-solving skills.
-- **[More](https://teoka.github.io/career/education.html) About <ins>Education</ins>**.
+- **More About [Education](https://teoka.github.io/career/education.html)**.
 - Experienced in working with **🌍international teams** (Jakarta, Paris) and **Agile methodologies 🔄**.
 - 🏆 Passionate about **Innovation**, with a track record in competitions 🏅.
-- **[More](https://teoka.github.io/career/work.html) About <ins>Work</ins>**.
+- **More About [Work](https://teoka.github.io/career/work.html)**.
 - 🔬 Structured, data-driven, and strategic, but also adaptable and open to creativity 🎨.
 
 ## Personal Side
@@ -27,11 +27,11 @@ I am **Friendly**, **Autonomous**, **self-driven**, team player, adaptable, and 
 - Explorer & Multicultural – Lived and studied in **Italy 🇮🇹, the Netherlands 🇳🇱, and France 🇫🇷**.
 - Competitive & Determined – Ran the **Paris Marathon in 2021 🏅**. 
 - 🏃‍♂️ Social & Active – Plays **soccer ⚽, tennis 🎾, and dances salsa 💃**.
-- **[More](https://teoka.github.io/hobbies/sports.html) About <ins>Sports & Challenges</ins>**.
+- **More About [Sports & Challenges](https://teoka.github.io/hobbies/sports.html)**.
 - 🎨 Creative & Artistic – Loves **painting, filmmaking, and crafting**.
 - 👥 Community-Driven – Co-believer **Boxalmatch**, combining **tech 💻, entertainment 🎭, and friendship 🤝**.
 - Regularly visit my family and **my dog Bracco** in Tuscany.
-- **[More](https://teoka.github.io/hobbies/entrepreneurship.html) About <ins>Entrepreneurship</ins>**.
+- **More About [Entrepreneurship](https://teoka.github.io/hobbies/entrepreneurship.html)**.
 
 ## CONTACT ME
 
