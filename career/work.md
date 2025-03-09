@@ -8,13 +8,20 @@
 
 ## INRIA
 
-### MPC-based Autonomous safe driving
+### Safe MPC-based Control for Self-Driving Transit Bus
+
+Have you ever wondered how a self-driving Bus should decelerate and eventually stops to avoid collision without compromising the comforn of passengers? ([Article](https://inria.hal.science/hal-03193874/document)).
+
 
 ## IIT
 
-My work focus on the Estimataion of Joint Torque at Knee Level of Humanoid Robot iCub. Moreover, I was co-author of a work on optimal impedances for completing a safe and stable foothold in uneven terrain ([Article]([https://teoka.github.io/career/CV.html](https://ieeexplore.ieee.org/abstract/document/7803270))).
+### Walking on Uneven Terrain
 
-### Estimation
+I was co-author of a work on optimal impedances for completing a safe and stable foothold in uneven terrain ([Article](https://ieeexplore.ieee.org/abstract/document/7803270)).
+
+### Joint Torque Estimation
+
+My work focus on the Estimataion of Joint Torque at Knee Level of Humanoid Robot iCub. Moreover, 
 
 ## perClass
 
