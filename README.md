@@ -16,7 +16,7 @@ I am **Friendly**, **Autonomous**, **self-driven**, team player, adaptable, and 
 
 - **👨‍💻 Product Owner** with expertise in Payments 💳, Robotics, and Software Development and Life Cycle.
 - Experienced in working with **🌍international teams** (Jakarta, Paris) and **Agile methodologies 🔄**.
-- 🏆 Passionate about **Innovation**, with track record in competitions 🏅.
+- 🏆 Passionate about **Innovation**, with track record in competitions.
 - **More About [Work](https://teoka.github.io/career/work.html)**.
 - Background in **Robotics & Automation (PhD) 🤖**, with strong analytical and problem-solving skills.
 - **More About [Education](https://teoka.github.io/career/education.html)**.
