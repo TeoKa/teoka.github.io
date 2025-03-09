@@ -10,7 +10,7 @@ Beyond my work, I’m a creative **thinker and an explorer**. Whether it’s fil
 
 ## ABOUT ME
 
-I am **Friendly**, **Autonomous**, **self-driven**, team player, adaptable, and fast learner (**Jump to my [CV](https://teoka.github.io/career/CV.html)**).
+I am **Friendly**, **Autonomous**, **self-driven**, team player, adaptable, and fast learner (**Jump to my [Curriculum Vitae](https://teoka.github.io/career/CV.html)**).
 
 ## Professional Side
 
