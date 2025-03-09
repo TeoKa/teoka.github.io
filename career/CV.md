@@ -33,12 +33,12 @@
 
 ## INTERSHIPS
 
-### IIT in Genova, April 2016 - October 2016 (6 months)
+### IIT in Genova 🇮🇹, April 2016 - October 2016 (6 months)
 
 - Improved actuator torque estimation of robot knees using estimation algorithms.
 - Hands-on iCub humanoid robot and MATLAB estimation algorithms.
 
-### perClass in Delft, September 2024 - December 2014 (4 months)
+### perClass in Delft 🇳🇱, September 2024 - December 2014 (4 months)
 
 - Improved gender classifier for spectral image interpretation using machine learning. Showcased the solution to 2 worldwide trade fairs in Munich and Eindhoven.
 - Product: perClass MATLAB toolbox.
@@ -48,9 +48,9 @@
 
 ## Degrees
 
-- 2020, Ph.D. in Robotics at INRIA in Grenoble 
-- 2016, M.Sc. in Engineering at TU Delft 
-- 2013, B.Sc. in Engineering at Polytechnic of Milan
+- 2020, Ph.D. in Robotics at INRIA in Grenoble 🇫🇷
+- 2016, M.Sc. in Engineering at TU Delft 🇳🇱
+- 2013, B.Sc. in Engineering at Polytechnic of Milan 🇮🇹
 
 ## Online Specialization
 
