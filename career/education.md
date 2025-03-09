@@ -9,9 +9,9 @@
 
 ## AI for Product Management ([Post](https://www.linkedin.com/posts/matteociocca_virtual-assistant-for-violence-prevention-activity-7110728554371244032-jilg?utm_source=share&utm_medium=member_desktop&rcm=ACoAABN7odwBCTSkSQQbgUbxRNshm2Aiwhhjvqs))
 
-([first-task]((https://www.youtube.com/watch?v=zTrsH-3jjGE)))
-([second-task]((https://www.youtube.com/watch?v=DRpccKmPCUQ)))
-([third-task]((https://www.youtube.com/watch?v=ZZzr4xP3w8E)))
+([first-task](https://www.youtube.com/watch?v=zTrsH-3jjGE))
+([second-task](https://www.youtube.com/watch?v=DRpccKmPCUQ))
+([third-task](https://www.youtube.com/watch?v=ZZzr4xP3w8E))
 
 ## Master Courses Assistant
 
