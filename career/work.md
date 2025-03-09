@@ -30,6 +30,8 @@ My work focus on the Estimataion of Joint Torque at Knee Level of Humanoid Robot
 
 ### Gender Classifier
 
+The image acquisition and face detection are performed by OpenCV. perClass then classifies each face region as male or female. The application can run in a laptop with an embedded camera. Furthermore the application was showed at the Vision trade fair in Stuttgart using an industrial computer (Advantech) with Matrix-Vision industrial mvBlueCOUGAR-X102eC camera.
+
 [Gender-Classifier](https://www.youtube.com/watch?v=nifuKmc8FPQ)
 
 ## [Back to CV](https://teoka.github.io/career/CV.html)
