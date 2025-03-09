@@ -29,8 +29,8 @@ I am **Friendly**, **Autonomous**, **self-driven**, team player, adaptable, and 
 - 🏃‍♂️ Social & Active – **soccer ⚽, tennis 🎾, and salsa 💃**.
 - **More About [Sports & Challenges](https://teoka.github.io/hobbies/sports.html)**.
 - 🎨 Creative & Artistic – Loves **painting, filmmaking, and crafting**.
-- 👥 Community-Driven – Co-believer **Boxalmatch**, combining **tech 💻, entertainment 🎭, and friendship 🤝**.
 - Regularly visit my family and **my dog Bracco** in Tuscany.
+- 👥 Community-Driven – Co-believer **Boxalmatch**, combining **tech 💻, entertainment 🎭, and friendship 🤝**.
 - **More About [Entrepreneurship](https://teoka.github.io/hobbies/entrepreneurship.html)**.
 
 ## CONTACT ME
