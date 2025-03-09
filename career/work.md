@@ -27,5 +27,7 @@ My work focus on the Estimataion of Joint Torque at Knee Level of Humanoid Robot
 
 ### Gender Classifier
 
+[Gender-Classifier](https://www.youtube.com/watch?v=nifuKmc8FPQ)
+
 ## [Back to CV](https://teoka.github.io/career/CV.html)
 ## [Back to Main Page](https://teoka.github.io)
