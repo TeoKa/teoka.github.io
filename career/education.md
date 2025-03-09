@@ -15,7 +15,7 @@
 
 ## Master Courses Assistant
 
-([LaTeX](https://www.youtube.com/watch?v=_pDUcLjUMNo)
+([LaTeX](https://www.youtube.com/watch?v=_pDUcLjUMNo))
 
 ## [Back to CV](https://teoka.github.io/career/CV.html)
 ## [Back to Main Page](https://teoka.github.io)
