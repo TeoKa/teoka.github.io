@@ -2,7 +2,7 @@
 
 ## Academic Research ([Google Scholar Account](https://scholar.google.fr/citations?user=V5lAMN4AAAAJ&hl=fr))
 
-### PhD Thesis Abstract
+### My Work Abstract
 
 This work focuses on two challenging tasks for humanoid robots: bipedal balance and collision
 avoidance in a dense crowd. We solve these tasks on a limited time horizon in which we can
@@ -29,7 +29,7 @@ it guarantees Passive Safety ([Article](https://inria.hal.science/hal-04200354/f
 This scheme can be adapted to take different priorities into account. For example, when the members of a crowd are divided in robots and people, the robot should leave as much time as possible for the people to react and then, if possible, for the other robots. Or when the robot must reach a target location at the utmost important and people might obstruct the motion of the robot, the robot can jostle people if necessary
 to reach the location.
 
-Read the Full PhD Thesis ([Full-Document](https://theses.hal.science/tel-03065088/file/CIOCCA_2020_archivage.pdf)).
+**Read the Full PhD Thesis ([Full-Document](https://theses.hal.science/tel-03065088/file/CIOCCA_2020_archivage.pdf))**.
 
 ## AI for Product Management ([Post](https://www.linkedin.com/posts/matteociocca_virtual-assistant-for-violence-prevention-activity-7110728554371244032-jilg?utm_source=share&utm_medium=member_desktop&rcm=ACoAABN7odwBCTSkSQQbgUbxRNshm2Aiwhhjvqs))
 
