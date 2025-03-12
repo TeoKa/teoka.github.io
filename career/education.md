@@ -21,9 +21,7 @@ Task: _Choose a project topic and then work through a series of steps to evaluat
 
 ## Master Courses Assistant
 
-During my Master of Science (Delft), I was hired part-time as course assistant during my master thesis. I was able to finally sit _on the other side of the table_ and understand the problems from professor perspective. This experience helped me to take the first steps as a coach to help colleague and co-worker struggling with difficul problems. But also this experience helped me to be a good listener.
-
-([LaTeX](https://www.youtube.com/watch?v=_pDUcLjUMNo))
+During my Master of Science (Delft), I was hired part-time as course assistant during my master thesis. I was able to finally sit _on the other side of the table_ and understand the problems from professor perspective. This experience helped me to take the first steps as a coach to help colleague and co-worker struggling with difficul problems. But also this experience helped me to improve as a good listener. Back in 2015, I decided to give few lectures on one of the most powerful academic tool: LaTeX ([Video](https://www.youtube.com/watch?v=_pDUcLjUMNo)).
 
 ## [Back to CV](https://teoka.github.io/career/CV.html)
 ## [Back to Main Page](https://teoka.github.io)
