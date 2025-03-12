@@ -11,7 +11,7 @@ Beyond my work, I’m a creative thinker and an explorer. Whether it’s filmmak
 
 ### Large image
 
-![Octocat](https://teokca.github.io/career/photos/me_web.jpg)
+![Book logo](https://teokca.github.io/career/photos/me_web.jpg)
 
 ## ABOUT ME
 
