@@ -8,11 +8,6 @@ Beyond my work, I’m a creative thinker and an explorer. Whether it’s filmmak
 
 🚀 Let’s connect and create something impactful together!
 
-
-### Large image
-
-![Alt text](https://teokca.github.io/career/photos/me_web.jpg)
-
 ## ABOUT ME
 
 I am **Friendly**, **Autonomous**, **self-driven**, team player, adaptable, and fast learner (**Jump to my [Curriculum Vitae](https://teoka.github.io/career/CV.html)**).
