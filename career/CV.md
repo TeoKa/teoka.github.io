@@ -10,7 +10,7 @@
 
 # PROFESSIONAL EXPERIENCE ([More](https://teoka.github.io/career/work.html))
 
-## IDEMIA (Paris) 🇫🇷
+## [IDEMIA](https://www.idemia.com/fr) (Paris) 🇫🇷
 
 ### Product Owner, November 2021 - present (3 years)
 
@@ -24,7 +24,7 @@
 - **💰 Led the CBDC Project 💵** at IDEMIA in partnership with ConsenSys, leveraging blockchain solutions 🔗 to enhance digital currency infrastructure for financial institutions.
 - **⚡Deployed software** to reduce test development & execution time by 50%, expanding Python 🐍 and Java ☕ frameworks.
 
-## INRIA (Grenoble) 🇫🇷
+## [INRIA](https://inria.fr/fr) (Grenoble) 🇫🇷
 
 ### Researcher, March 2017 - September 2020 (3.5 years)
 
@@ -33,12 +33,12 @@
 
 ## INTERSHIPS
 
-### IIT in Genova 🇮🇹, April 2016 - October 2016 (6 months)
+### [IIT](https://www.iit.it/) in Genova 🇮🇹, April 2016 - October 2016 (6 months)
 
 - Improved actuator torque estimation of robot knees using estimation algorithms.
 - Hands-on iCub humanoid robot and MATLAB estimation algorithms.
 
-### perClass in Delft 🇳🇱, September 2024 - December 2014 (4 months)
+### [perClass](https://www.perclass.com/) in Delft 🇳🇱, September 2024 - December 2014 (4 months)
 
 - Improved gender classifier for spectral image interpretation using machine learning. Showcased the solution to 2 worldwide trade fairs in Munich and Eindhoven.
 - Product: perClass MATLAB toolbox.
