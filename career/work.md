@@ -33,7 +33,7 @@ I was co-author of a work on optimal impedances for completing a safe and stable
 
 ### Joint Torque Estimation
 
-My work focus on the Estimataion of Joint Torque at Knee Level of Humanoid Robot iCub. Moreover, 
+My work focus on the Estimataion of Joint Torque at Knee Level of Humanoid Robot iCub. Internal report was provided, hands-on real humanoid robot and performed several experiments. 
 
 ## perClass
 
