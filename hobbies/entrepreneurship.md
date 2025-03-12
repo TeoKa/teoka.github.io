@@ -7,7 +7,9 @@ I joined a start-up back in 2014 that was composed by only 3 people, I was the t
 
 ## BOXALMATCH
 
+**Boxalmatch** is a collective entertainment initiative I co-founded with a group of long-time friends. Initially started in 2019 as a casual gaming group, it has since evolved into a structured project organizing both online and in-person events, including gaming tournaments, creative challenges, and community-driven experiences.  
 
+Our goal is to foster engagement through interactive entertainment, leveraging digital platforms and social experiences. To support this vision, we are building an organized structure to manage content, events, and potential collaborations. This project allows me to apply and refine my skills in **product management, community engagement, and digital strategy**, all while ensuring that the business aspect never interferes with the strong friendships at its core.
 
 ([YouTube](https://www.youtube.com/@BOXALMATCH))
 
