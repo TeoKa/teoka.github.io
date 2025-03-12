@@ -58,7 +58,7 @@
 
 # TRAININGS
 
-- Leadership: Cross-Functional Manager, Team Manager (CEGOS), State of the Art BI (ORSYS), Business Plan, Time Management (INRIA).
+- Leadership: Cross-Functional Manager, Team Manager ([CEGOS](https://www.cegos.fr/)), State of the Art BI ([ORSYS](https://www.orsys.fr/)), Business Plan, Time Management (INRIA).
 
 # CERTIFICATIONS
 
