@@ -2,7 +2,7 @@
 
 I'm a **Product Owner** with a passion for building innovative solutions.
 
-With a background in **Robotics and Automation (Ph.D.)**, I thrive at the intersection of **technology, strategy, and user experience**. Working with international **teams across Jakarta and Paris**, I bring a global perspective and a structured, analytical approach to problem-solving.
+With a background in **Robotics and Automation (Ph.D.)**, I thrive at the intersection of technology, strategy, and user experience. Working with international teams across Jakarta and Paris, I bring a global perspective and a structured, analytical approach to problem-solving.
 
 Beyond my work, I’m a creative thinker and an explorer. Whether it’s filmmaking, painting, crafting, or dancing salsa, I love blending logic with creativity. As a Paris Marathon finisher and a competitive sports enthusiast, I approach challenges with determination and adaptability.
 
