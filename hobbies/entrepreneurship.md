@@ -11,7 +11,7 @@ I joined a start-up back in 2014 that was composed by only 3 people, I was the t
 
 Our goal is to foster engagement through interactive entertainment, leveraging digital platforms and social experiences. To support this vision, we are building an organized structure to manage content, events, and potential collaborations. This project allows me to apply and refine my skills in **product management, community engagement, and digital strategy**, all while ensuring that the business aspect never interferes with the strong friendships at its core.
 
-This project can be found on [YouTube](https://www.youtube.com/@BOXALMATCH) and on [Instagram](https://www.instagram.com/boxalmatch/)
+This project can be found on [YouTube](https://www.youtube.com/@BOXALMATCH) and on [Instagram](https://www.instagram.com/boxalmatch/).
 
 ## [Back to Main Page](https://teoka.github.io)
 
