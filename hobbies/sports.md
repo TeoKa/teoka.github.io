@@ -2,10 +2,10 @@
 
 Sports have always been a big part of my life, shaping my mindset both personally and professionally. I thrive on **discipline 🏋️, perseverance 💪, and strategy 🧠** whether I’m on the field, the court, or the track.
 
-Whether in **sports, product management, or entrepreneurship**, I believe in **consistency 🔥, resilience 🏆, and always aiming for the next challenge 🚀**.
+Whether in sports, product management, or entrepreneurship, I believe in consistency 🔥, resilience 🏆, and always aiming for the next challenge 🚀.
 
 ## Runner
-**Completed the 🏃‍♂️ Paris Marathon (2021) with friends and Paris-Versailles (2024) with my colleagues**, proving my endurance, commitment, and ability to push through challenges. **👟 Running with KIIN Paris**: As part of this vibrant running community 🌍, I push my limits while connecting with like-minded athletes. Running isn’t just about speed ⚡ —it’s about consistency, resilience, and self-improvement.
+Completed the 🏃‍♂️ Paris Marathon (2021) with friends and Paris-Versailles (2024) with my colleagues, proving my endurance, commitment, and ability to push through challenges. 👟 Running with KIIN Paris: As part of this vibrant running community 🌍, I push my limits while connecting with like-minded athletes. Running isn’t just about speed ⚡ —it’s about consistency, resilience, and self-improvement.
 
 ## Soccer Enthusiast
 A **lifelong passion ⚽** that taught me teamwork 🤝, quick decision-making ⏳, and adaptability 🔄. Not only with friends but also with colleagues! (*You cannot do a good Job is Job is the only thing you do*). Played tournaments of soccer for 9 years.
