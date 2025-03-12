@@ -19,9 +19,9 @@ Task: _Given a set of 9568 hourly average ambient environmental readings from se
 Task: _Choose a project topic and then work through a series of steps to evaluate the opportunity, walk through the Business Understanding phase of the CRISP-DM process for it, develop a validation plan for the solution, consider key Machine Learning system design decisions, and identify potential issues that may affect the final model in production._
 
 
-
-
 ## Master Courses Assistant
+
+During my Master of Science (Delft), I was hired part-time as course assistant during my master thesis. I was able to finally sit _on the other side of the table_ and understand the problems from professor perspective. This experience helped me to take the first steps as a coach to help colleague and co-worker struggling with difficul problems. But also this experience helped me to be a good listener.
 
 ([LaTeX](https://www.youtube.com/watch?v=_pDUcLjUMNo))
 
