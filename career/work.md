@@ -37,6 +37,8 @@ My work focus on the Estimataion of Joint Torque at Knee Level of Humanoid Robot
 
 ## perClass
 
+Back in 2014, I was looking for experience and passion for technology (I did not even graduate it yet, and intership were not mandatory). I found opportunity in a start-up called [perClass](https://www.perclass.com/) for 3 months. This was a truly remarakble experience. I worked with Pattern Recognition algorithms. Algorithms that are known today in the field of Machine Learning. I participated to many tradefair with perClass meeting clients and understanding their needs. Truly fantastic.
+
 ### Gender Classifier
 
 The image acquisition and face detection are performed by OpenCV. perClass then classifies each face region as male or female. The application can run in a laptop with an embedded camera. Furthermore the application was showed at the Vision trade fair in Stuttgart using an industrial computer (Advantech) with Matrix-Vision industrial mvBlueCOUGAR-X102eC camera.
