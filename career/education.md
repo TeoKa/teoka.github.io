@@ -2,10 +2,34 @@
 
 ## Academic Research ([Google Scholar Account](https://scholar.google.fr/citations?user=V5lAMN4AAAAJ&hl=fr))
 
-- SRF ([Article](https://inria.hal.science/hal-01618881/file/ICHR17_0017_FI.pdf)).
-- Effect of Planning ([Article](https://inria.hal.science/hal-02267426/document)).
-- Time to Danger ([Article](https://inria.hal.science/hal-04200354/file/2023_IROS_Ciocca_et_al_.pdf)).
-- Full PhD Thesis ([Full-Document](https://theses.hal.science/tel-03065088/file/CIOCCA_2020_archivage.pdf)).
+### PhD Thesis Abstract
+
+This work focuses on two challenging tasks for humanoid robots: bipedal balance and collision
+avoidance in a dense crowd. We solve these tasks on a limited time horizon in which we can
+anticipate the consequences of robot actions.
+We can guarantee that the robot is able to stop in a few steps and avoid falling. When
+the robot is not planning to stop but to continue walking, we show the guarantee to avoid
+falling is not lost but it depends on the length of the time horizon. It is impossible to know
+beforehand what people will do next, so we cannot guarantee that no collision will ever occur ([Article](https://inria.hal.science/hal-01618881/file/ICHR17_0017_FI.pdf)).  
+
+Over a limited time horizon we can guarantee Passive Safety: the robot is able to stop before
+a collision occurs. This safety guarantee is combined with fall avoidance in a Model Predictive
+Control scheme. The capacity for the robot to react and avoid collisions is constrained once
+a step is planted on the ground, until the next step is initiated. With the control scheme
+outlined above the robot reacts not only at each step initiation but also in between. We
+show that reacting only once per step (thus saving computational power) does not degrade
+collision avoidance capability ([Article](https://inria.hal.science/hal-02267426/document)).  
+
+The time left for people to react and avoid collisions once the robot has stopped (to
+guarantee Passive Safety) might not be enough. We propose a new control scheme called
+Collision Mitigation that guarantees fall avoidance while aiming to leave as much time as
+possible for the people to react. As a result, the robot collides less often and later than when
+it guarantees Passive Safety ([Article](https://inria.hal.science/hal-04200354/file/2023_IROS_Ciocca_et_al_.pdf)).  
+
+This scheme can be adapted to take different priorities into account. For example, when the members of a crowd are divided in robots and people, the robot should leave as much time as possible for the people to react and then, if possible, for the other robots. Or when the robot must reach a target location at the utmost important and people might obstruct the motion of the robot, the robot can jostle people if necessary
+to reach the location.
+
+Read the Full PhD Thesis ([Full-Document](https://theses.hal.science/tel-03065088/file/CIOCCA_2020_archivage.pdf)).
 
 ## AI for Product Management ([Post](https://www.linkedin.com/posts/matteociocca_virtual-assistant-for-violence-prevention-activity-7110728554371244032-jilg?utm_source=share&utm_medium=member_desktop&rcm=ACoAABN7odwBCTSkSQQbgUbxRNshm2Aiwhhjvqs))
 
