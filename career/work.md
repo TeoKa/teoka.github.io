@@ -37,7 +37,11 @@ My work focus on the Estimataion of Joint Torque at Knee Level of Humanoid Robot
 
 ## perClass
 
-Back in 2014, I was looking for experience and passion for technology (I did not even graduate it yet, and intership were not mandatory). I found opportunity in a start-up called [perClass](https://www.perclass.com/) for 3 months. This was a truly remarakble experience. I worked with Pattern Recognition algorithms. Algorithms that are known today in the field of Machine Learning. I participated to many tradefair with perClass meeting clients and understanding their needs. Truly fantastic.
+During my internship at [perClass](https://www.perclass.com/) in Delft, I worked on improving a** machine learning-based gender classifier** for spectral image interpretation. My role involved developing and fine-tuning algorithms to enhance classification accuracy, making the model more robust and reliable.
+
+One of the highlights of this experience was showcasing the improved solution at two **worldwide trade fairs in Munich and Eindhoven**, where I engaged with industry professionals and potential clients. This not only strengthened my technical skills in machine learning and image processing but also gave me exposure to presenting complex AI-driven solutions in a business-oriented environment.
+
+The project contributed to refining **perClass' MATLAB toolbox**, a key product used in spectral imaging applications. Through this experience, I developed a strong understanding of data-driven product development, combining research insights with real-world applications to enhance a commercial software solution.
 
 ### Gender Classifier
 
