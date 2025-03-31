@@ -4,17 +4,17 @@
 
 ### My Work Abstract
 
-Imagine a robot walking through a busy street full of people. It needs to do two things well: keep its balance so it doesn’t fall and avoid bumping into people.
+Imagine a robot walking through a busy street full of people. It needs to do two things well: **keep its balance** so it doesn’t fall and **avoid bumping into people**.
 
 To do this, the robot looks a few moments ahead, kind of like a person checking the road before crossing. If needed, it can stop safely within a few steps, just like a person slowing down before a red light. If it keeps walking, whether it stays balanced depends on how far ahead it can "see" into the future ([Article](https://inria.hal.science/hal-01618881/file/ICHR17_0017_FI.pdf)).
 
-Now, people in a crowd move in unpredictable ways—you never know if someone will suddenly stop or change direction. Because of this, we can’t promise the robot will never bump into anyone. But we can make sure it has the ability to stop before hitting someone, just like a careful pedestrian stopping before crashing into a group.
+Now, people in a crowd move in unpredictable ways—you never know if someone will suddenly stop or change direction. Because of this, we **can’t promise** the robot will never bump into anyone. But we can make sure it has the ability to stop before hitting someone, just like a careful pedestrian stopping before crashing into a group.
 
 Once the robot plants a foot, it has limited ability to change direction until it lifts the foot again—kind of like when you take a big step and can’t suddenly turn in the middle of it. But we made sure the robot can also make small adjustments while stepping, instead of only reacting at the beginning of each step. This is like a person slightly shifting their weight to dodge someone instead of making a huge sidestep ([Article](https://inria.hal.science/hal-02267426/document)).
 
-Stopping in time helps avoid crashes, but sometimes people need more time to notice and move out of the way. So, we introduced a new method, Collision Mitigation. Instead of just stopping to avoid hitting someone, the robot slows down earlier, giving people a better chance to step aside—like a biker ringing a bell well before reaching a pedestrian instead of stopping last second ([Article](https://inria.hal.science/hal-04200354/file/2023_IROS_Ciocca_et_al_.pdf)).
+Stopping in time helps avoid crashes, but sometimes people need more time to notice and move out of the way. So, we introduced a new method, **Collision Mitigation**. Instead of just stopping to avoid hitting someone, the robot slows down earlier, giving people a better chance to step aside—like a biker ringing a bell well before reaching a pedestrian instead of stopping last second ([Article](https://inria.hal.science/hal-04200354/file/2023_IROS_Ciocca_et_al_.pdf)).
 
-This system can be adjusted based on the situation. If the crowd is a mix of robots and people, the robot should give people more time to react first. But if the robot absolutely must get somewhere—like an ambulance rushing through traffic—it can gently push past obstacles when necessary.
+This system can be adjusted based on the situation. If the crowd is a mix of robots and people, the robot should give people more time to react first. But if the robot absolutely **must** get somewhere—like an ambulance rushing through traffic—it can gently push past obstacles when necessary.
 
 
 **Read the Full PhD Thesis ([Full-Document](https://theses.hal.science/tel-03065088/file/CIOCCA_2020_archivage.pdf))**.
