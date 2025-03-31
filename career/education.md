@@ -4,30 +4,18 @@
 
 ### My Work Abstract
 
-This work focuses on two challenging tasks for humanoid robots: bipedal balance and collision
-avoidance in a dense crowd. We solve these tasks on a limited time horizon in which we can
-anticipate the consequences of robot actions.
-We can guarantee that the robot is able to stop in a few steps and avoid falling. When
-the robot is not planning to stop but to continue walking, we show the guarantee to avoid
-falling is not lost but it depends on the length of the time horizon. It is impossible to know
-beforehand what people will do next, so we cannot guarantee that no collision will ever occur ([Article](https://inria.hal.science/hal-01618881/file/ICHR17_0017_FI.pdf)).  
+Imagine a robot walking through a busy street full of people. It needs to do two things well: keep its balance so it doesn’t fall and avoid bumping into people.
 
-Over a limited time horizon we can guarantee Passive Safety: the robot is able to stop before
-a collision occurs. This safety guarantee is combined with fall avoidance in a Model Predictive
-Control scheme. The capacity for the robot to react and avoid collisions is constrained once
-a step is planted on the ground, until the next step is initiated. With the control scheme
-outlined above the robot reacts not only at each step initiation but also in between. We
-show that reacting only once per step (thus saving computational power) does not degrade
-collision avoidance capability ([Article](https://inria.hal.science/hal-02267426/document)).  
+To do this, the robot looks a few moments ahead, kind of like a person checking the road before crossing. If needed, it can stop safely within a few steps, just like a person slowing down before a red light. If it keeps walking, whether it stays balanced depends on how far ahead it can "see" into the future ([Article](https://inria.hal.science/hal-01618881/file/ICHR17_0017_FI.pdf)).
 
-The time left for people to react and avoid collisions once the robot has stopped (to
-guarantee Passive Safety) might not be enough. We propose a new control scheme called
-Collision Mitigation that guarantees fall avoidance while aiming to leave as much time as
-possible for the people to react. As a result, the robot collides less often and later than when
-it guarantees Passive Safety ([Article](https://inria.hal.science/hal-04200354/file/2023_IROS_Ciocca_et_al_.pdf)).  
+Now, people in a crowd move in unpredictable ways—you never know if someone will suddenly stop or change direction. Because of this, we can’t promise the robot will never bump into anyone. But we can make sure it has the ability to stop before hitting someone, just like a careful pedestrian stopping before crashing into a group.
 
-This scheme can be adapted to take different priorities into account. For example, when the members of a crowd are divided in robots and people, the robot should leave as much time as possible for the people to react and then, if possible, for the other robots. Or when the robot must reach a target location at the utmost important and people might obstruct the motion of the robot, the robot can jostle people if necessary
-to reach the location.
+Once the robot plants a foot, it has limited ability to change direction until it lifts the foot again—kind of like when you take a big step and can’t suddenly turn in the middle of it. But we made sure the robot can also make small adjustments while stepping, instead of only reacting at the beginning of each step. This is like a person slightly shifting their weight to dodge someone instead of making a huge sidestep ([Article](https://inria.hal.science/hal-02267426/document)).
+
+Stopping in time helps avoid crashes, but sometimes people need more time to notice and move out of the way. So, we introduced a new method, Collision Mitigation. Instead of just stopping to avoid hitting someone, the robot slows down earlier, giving people a better chance to step aside—like a biker ringing a bell well before reaching a pedestrian instead of stopping last second ([Article](https://inria.hal.science/hal-04200354/file/2023_IROS_Ciocca_et_al_.pdf)).
+
+This system can be adjusted based on the situation. If the crowd is a mix of robots and people, the robot should give people more time to react first. But if the robot absolutely must get somewhere—like an ambulance rushing through traffic—it can gently push past obstacles when necessary.
+
 
 **Read the Full PhD Thesis ([Full-Document](https://theses.hal.science/tel-03065088/file/CIOCCA_2020_archivage.pdf))**.
 
