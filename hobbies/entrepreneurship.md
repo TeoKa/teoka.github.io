@@ -5,9 +5,9 @@ I joined a start-up back in 2014 that was composed by only 3 people, I was the t
 
 ## Jeerasta
 
-Back in 2014, my roommate and I were very motivated to open a small business operation. We were (and still are) great chef on our own. And we wanted to experiment what would happen if we not only cook for ourselves but also for Dutch neighbors. No questions behind the fact that food culture is not in Dutch culture. On the other hands, we were one Italian and one Indian/Canadian that could cook very well. So we tried: we start selling food to our neighbors. It was a success!! People called us back even for Christmas to cook for their Christams lunch. I cannot express how, back in those days, that experience was truly exceptional. Those were the years when [Just Eat](https://en.wikipedia.org/wiki/Just_Eat) (food delivery service) floated on the London Stock Exchange. We were really proud of our little experiments but it did not last long since we took different roads. I went back to Italy for my first ever internship and my roommate, [Abhishek](https://www.linkedin.com/in/abhisheksen/) took a real entepreneural path and today he is CEO of his own company.
+Back in 2014, my roommate and I were very motivated to open a small business operation called [Jeerasta](https://www.youtube.com/@jeerasta5220). We were (and still are) great chef on our own. And we wanted to experiment what would happen if we not only cook for ourselves but also for Dutch neighbors. No questions behind the fact that food culture is not in Dutch culture. On the other hands, we were one Italian and one Indian/Canadian that could cook very well. So we tried: we start selling food to our neighbors. It was a success!! People called us back even for Christmas to cook for their Christams lunch. I cannot express how, back in those days, that experience was truly exceptional. Those were the years when [Just Eat](https://en.wikipedia.org/wiki/Just_Eat) (food delivery service) floated on the London Stock Exchange. We were really proud of our little experiments but it did not last long since we took different roads. I went back to Italy for my first ever internship and my roommate, [Abhishek](https://www.linkedin.com/in/abhisheksen/) took a real entepreneural path and today he is CEO of his own company.
 
-https://www.youtube.com/@jeerasta5220
+
 
 ## BOXALMATCH
 
