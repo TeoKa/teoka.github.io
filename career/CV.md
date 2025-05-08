@@ -1,74 +1,43 @@
-# Curriculum Vitae
+# 📄 Curriculum Vitae (CV)
 
-**🎯 Ambitious and results-driven professional** seeking to contribute to a high-performing team by leveraging **expertise in product management 🚀**, data analysis 📊, and cross-functional collaboration 🤝 to create extraordinary value through innovation and excellence 💡.
+## 👋 About Me
+Product Owner and PhD-trained engineer with a passion for building impactful, data-driven software products. I thrive at the intersection of tech, innovation, and strategy — and bring a unique mix of hands-on R&D, global teamwork, and user-focused product leadership.
 
-# SUMMARY
+## 🧠 Skills Summary
+- **Product Management**: Roadmapping, Agile/Scrum, lifecycle ownership, stakeholder alignment
+- **Technical Stack**: Python, C++, Git, JIRA, MATLAB
+- **Industry Knowledge**: Payments, Digital Identity, Compliance, Machine Learning
+- **Soft Skills**: Team mentoring, cross-functional leadership, public speaking
 
-**💼 Product Owner with 3+ years of experience** leading cross-functional teams to deliver innovative software solutions.  
-✔️ Proven ability to drive product vision 🚀, streamline operations ⚙️, and align technical & business stakeholders.  
-✔️ Passionate about user-centered, data-driven products 📊 in fast-paced environments.
+## 💼 Work Experience ([Read More](https://teoka.github.io/career/work.html))
 
-# PROFESSIONAL EXPERIENCE ([More](https://teoka.github.io/career/work.html))
+### Product Owner – [IDEMIA](https://www.idemia.com/fr), Paris (2021–Present) 🇫🇷
+- Reduced card personalization time by 75% via software optimization
+- Led vision and feature prioritization for factory software used worldwide
+- Product installs software on 1M+ cards/year
 
-## [IDEMIA](https://www.idemia.com/fr) (Paris) 🇫🇷
+### R&D Engineer – IDEMIA (2020–2021) 🇫🇷
+- Led CBDC project in partnership with ConsenSys
+- Won IDEMIA Innovathon with sustainable product concept
+- Halved test execution time by expanding Python/Java frameworks
 
-### Product Owner, November 2021 - present (3 years)
+### Researcher – INRIA, Grenoble (2017–2020) 🇫🇷
+- Published robotics research in motion safety and autonomous navigation
+- Contributed to control frameworks for humanoid robots
 
-- **Reduced** payment and identity card **personalization time by 75%**, enhancing factory throughput 🏭 and client satisfaction 😃.
-- Collaborated with 5+ global stakeholders 🌍 to define product vision and prioritize features for software servicing 1M+ cards annually 💳.
-- **Product**: Factory software that installs **payment & identity card software onto chips 🏦💾**.
+### Internships
+- **[IIT](https://www.iit.it/) Genova** 🇮🇹: Torque estimation for iCub humanoid
+- **[perClass](https://www.perclass.com/) Delft** 🇳🇱: ML model deployment and product demos for spectral imaging
 
-### R&D Engineer, November 2020 - October 2021 (1 years)
+## 🎓 Education ([Read More](https://teoka.github.io/career/education.html))
+- **PhD in Robotics** – INRIA, France
+- **MSc in Mechatronic Systems Design** – TU Delft, Netherlands
+- **BSc in Automation Engineering** – Politecnico di Milano, Italy
+- **Specialization**: AI for Product Management (Coursera, 2023)
 
-- **🏆 Winner 🥇 as Team Leader** of the IDEMIA Innovathon, reducing environmental impact 🌱 by 80%.
-- **💰 Led the CBDC Project 💵** at IDEMIA in partnership with ConsenSys, leveraging blockchain solutions 🔗 to enhance digital currency infrastructure for financial institutions.
-- **⚡Deployed software** to reduce test development & execution time by 50%, expanding Python 🐍 and Java ☕ frameworks.
-
-## [INRIA](https://inria.fr/fr) (Grenoble) 🇫🇷
-
-### Researcher, March 2017 - September 2020 (3.5 years)
-
-- **📜 Pioneered research 🔬** on **motion safety for autonomous systems 🚗** with 2+ scientific articles on robotics and autonomous vehicles.
-- 🤖 Hands-on experience with HRP2 humanoid robot & C++ motion planning framework 💻.
-
-## INTERSHIPS
-
-### [IIT](https://www.iit.it/) in Genova 🇮🇹, April 2016 - October 2016 (6 months)
-
-- Improved actuator torque estimation of robot knees using estimation algorithms.
-- Hands-on iCub humanoid robot and MATLAB estimation algorithms.
-
-### [perClass](https://www.perclass.com/) in Delft 🇳🇱, September 2024 - December 2014 (4 months)
-
-- Improved gender classifier for spectral image interpretation using machine learning. Showcased the solution to 2 worldwide trade fairs in Munich and Eindhoven.
-- Product: perClass MATLAB toolbox.
-
-
-# EDUCATION EXPERIENCE ([More](https://teoka.github.io/career/education.html))
-
-## Degrees
-
-- 2020, Ph.D. in Robotics at INRIA in Grenoble 🇫🇷
-- 2016, M.Sc. in Engineering at TU Delft 🇳🇱
-- 2013, B.Sc. in Engineering at Polytechnic of Milan 🇮🇹
-
-## Online Specialization
-
-- 2023, AI for Product Management on COURSERA
-
-# TRAININGS
-
-- Leadership: Cross-Functional Manager, Team Manager ([CEGOS](https://www.cegos.fr/)), State of the Art BI ([ORSYS](https://www.orsys.fr/)), Business Plan, Time Management (INRIA).
-
-# CERTIFICATIONS
-
-- Business Intelligence: Power BI, Microsoft Project, Introduction to SAP (UDEMY), Financial Accounting (COURSERA).
-
-# SKILLS
-
-- **Product Management**: Product lifecycle management, customer journey mapping, Agile Methodologies.
-- **Technical Skills**: Python, JIRA, C++, Git, payment ecosystem, compliance familiarity.
-- **AI and Data Science**: Machine Learning, Data Analysis.
-- **Leadership**: Team mentoring, cross-functional collaboration, project management.
+## 📜 Certifications
+- Power BI, Microsoft Project, SAP, Financial Accounting
+- Agile & Scrum, Time Management, Business Plan Creation
+- Team Manager ([CEGOS](https://www.cegos.fr/)), State of the Art BI ([ORSYS](https://www.orsys.fr/))
 
 ## [Back to Main Page](https://teoka.github.io)
