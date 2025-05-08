@@ -21,7 +21,7 @@ Product Owner and PhD-trained engineer with a passion for building impactful, da
 - Won IDEMIA Innovathon with sustainable product concept
 - Halved test execution time by expanding Python/Java frameworks
 
-### Researcher – INRIA, Grenoble (2017–2020) 🇫🇷
+### Researcher – [INRIA](https://www.inria.fr/fr), Grenoble (2017–2020) 🇫🇷
 - Published robotics research in motion safety and autonomous navigation
 - Contributed to control frameworks for humanoid robots
 
