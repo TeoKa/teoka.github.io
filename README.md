@@ -1,41 +1,33 @@
-# Welcome
+# 👋 Welcome
+I'm a Product Owner with a Ph.D. in Robotics, blending deep technical expertise with product strategy to build high-impact, user-centric solutions. I thrive where innovation meets execution—especially in Payments, Automation, and Smart Software Systems.
 
-I'm a **Product Owner** specializing in Robotics and Automation, with a Ph.D. and a passion for innovative solutions. I excel at bridging technology and strategy to deliver impactful user experiences.
+- 🔍 Explore my [Work Projects](https://teoka.github.io/career/work.html)
+- 🎓 Learn more about my [Education](https://teoka.github.io/career/education.html)
+- 📄 Download my [CV](https://teoka.github.io/career/CV.html)
 
-- Explore my **[Work](https://teoka.github.io/career/work.html)**.
-- Understand my **[Education](https://teoka.github.io/career/education.html)**
-- Download my **[Curriculum Vitae](https://teoka.github.io/career/CV.html)**
+## 🙋‍♂️ About Me
 
-## ABOUT ME
+### 💼 Professional Side
+- Product Owner in Payments, Robotics, and Software Development
+- Experienced with global Agile teams in Jakarta 🇮🇩 and Paris 🇫🇷
+- Strong track record in innovation competitions and tech strategy
+- Ph.D. in Robotics with a focus on automation, control, and AI
+- Data-driven, strategic thinker with a creative twist
 
-I am **Friendly**, **Autonomous**, **self-driven**, team player, adaptable, and fast learner (**Jump to my [Curriculum Vitae](https://teoka.github.io/career/CV.html)**).
+📌 More about my [Work](https://teoka.github.io/career/work.html) | More about my [Education](https://teoka.github.io/career/education.html)
 
-## Professional Side
+### 🌍 Personal Side
+- Multicultural: Lived in Italy, the Netherlands, and France
+- Marathon runner 🏃 (Paris 2021), team sports fan ⚽🎾, salsa dancer 💃
+- Passionate about art, filmmaking, and hands-on creativity
+- Regularly travel to Tuscany to see family and Bracco 🐶
+- Boxalmatch: community-first tech & entertainment startup
 
-- **👨‍💻 Product Owner** with expertise in Payments 💳, Robotics, and Software Development and Life Cycle.
-- Experienced in working with **🌍international teams** (Jakarta, Paris) and **Agile methodologies 🔄**.
-- 🏆 Passionate about **Innovation**, with track record in competitions.
-- **More About [Work](https://teoka.github.io/career/work.html)**.
-- Background in **Robotics & Automation (PhD) 🤖**, with strong analytical and problem-solving skills.
-- **More About [Education](https://teoka.github.io/career/education.html)**.
-- 🔬 Structured, data-driven, and strategic, but also adaptable and open to creativity 🎨.
+📌 More about [Sports & Challenges](https://teoka.github.io/hobbies/sports.html) | More about [Entrepreneurship](https://teoka.github.io/hobbies/entrepreneurship.html)
 
-## Personal Side
+## 🎥 More
+A Media section featuring talks, demos, and events on [YouTube](https://www.youtube.com/@matteociocca2033).
 
-- Explorer & Multicultural – Lived and studied in **Italy 🇮🇹, the Netherlands 🇳🇱, and France 🇫🇷**.
-- Competitive & Determined – Ran the **Paris Marathon in 2021 🏅**. 
-- 🏃‍♂️ Social & Active – **soccer ⚽, tennis 🎾, and salsa 💃**.
-- **More About [Sports & Challenges](https://teoka.github.io/hobbies/sports.html)**.
-- 🎨 Creative & Artistic – Loves **painting, filmmaking, and crafting**.
-- Regularly visit my family and **my dog Bracco** in Tuscany.
-- 👥 Community-Driven – Co-believer **Boxalmatch**, combining **tech 💻, entertainment 🎭, and friendship 🤝**.
-- **More About [Entrepreneurship](https://teoka.github.io/hobbies/entrepreneurship.html)**.
+## 📬 Get in Touch
+Let's connect via [LinkedIn](https://www.linkedin.com/in/matteociocca/).
 
-## MORE
-
-Media Section on [YouTube](https://www.youtube.com/@matteociocca2033).
-
-
-## CONTACT ME
-
-via [LinkedIn](https://www.linkedin.com/in/matteociocca/).
