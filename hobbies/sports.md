@@ -1,25 +1,23 @@
-# Sports & Challenges
+# 🏅 SPORTS & CHALLENGES
+Sport has been more than a hobby—it's been a way to grow discipline, resilience, and strategic thinking that I apply in every area of life, including product development and entrepreneurship.
 
-Sports have always been a big part of my life, shaping my mindset both personally and professionally. I thrive on **discipline 🏋️, perseverance 💪, and strategy 🧠** whether I’m on the field, the court, or the track.
+## 🏃‍♂️ Runner
+- **Paris Marathon 2021** – ran with friends, proving endurance and commitment.
+- **Paris-Versailles 2024** – ran with colleagues, showing team spirit beyond the office.
+- **Member of KIIN Paris** – an international running crew that combines athletic goals with a social edge. For me, running is not just a sport—it’s a way to stay grounded, focused, and inspired.
 
-Whether in sports, product management, or entrepreneurship, I believe in consistency 🔥, resilience 🏆, and always aiming for the next challenge 🚀.
+## ⚽ Soccer Enthusiast
+Nine years of playing team tournaments taught me the fundamentals of collaboration, decision-making under pressure, and adaptability. Whether on a pitch or in a project meeting, those lessons stick. And yes—I still play with friends and colleagues because balance is key: "You can’t do a good job if your job is all you do."
 
-## Runner
-Completed the 🏃‍♂️ Paris Marathon (2021) with friends and Paris-Versailles (2024) with my colleagues, proving my endurance, commitment, and ability to push through challenges. 👟 Running with KIIN Paris: As part of this vibrant running community 🌍, I push my limits while connecting with like-minded athletes. Running isn’t just about speed ⚡ —it’s about consistency, resilience, and self-improvement.
+## 🎾 Tennis Player
+Precision and strategy define tennis—and my approach to problem-solving. I competed in doubles and soccer-tennis tournaments for over six years, honing my analytical side on the court.
 
-## Soccer Enthusiast
-A **lifelong passion ⚽** that taught me teamwork 🤝, quick decision-making ⏳, and adaptability 🔄. Not only with friends but also with colleagues! (*You cannot do a good Job is Job is the only thing you do*). Played tournaments of soccer for 9 years.
+## 💃 Salsa Dancer
+Salsa taught me rhythm, fluidity, and connection. Dance is more than fun—it’s another form of communication and adaptability, both in personal and team dynamics.
 
-## Tennis Player
-A mix of **strategy and precision 🎾**, much like the problem-solving approach I bring to work. Played tournaments of soccer tennis for 6 years.
-
-## Salsa Dancer
-Because agility isn’t just for sports—it's also about rhythm 🎶, **adaptability 🌊, and connecting with people 🫂**.
-
-## More
-
-- Explored activities as painting, dancing salsa surf and crafting. 
-- Enthusiast in computer graphics and filmmaking. 
-- Regularly visit my family and my dog Bracco in Tuscany.
+## 🎨 More About Me
+- Passionate about painting, filmmaking, and crafting.
+- Exploring computer graphics as a creative outlet.
+- Regularly reconnect with my roots in Tuscany, where my family—and my dog Bracco—await.
 
 ## [Back to Main Page](https://teoka.github.io)
