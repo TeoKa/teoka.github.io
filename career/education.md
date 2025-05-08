@@ -1,4 +1,4 @@
-# 🎓 Education Projects (New Version)
+# 🎓 Education Projects
 
 ## 📚 PhD in Robotics – INRIA ([Google Scholar Account](https://scholar.google.fr/citations?user=V5lAMN4AAAAJ&hl=fr))
 Explored real-time decision-making and safety for bipedal robots navigating crowded environments.
