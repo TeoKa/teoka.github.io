@@ -1,51 +1,50 @@
-# Work Projects
+# 🔧 Work Projects
 
 ## IDEMIA
 
-### Common Personalization System ([CPS](https://www.idemia.com/card-personalization-services))
+### Product Owner, Common Personalization System ([CPS](https://www.idemia.com/card-personalization-services))
+Lead Product Owner for CPS, proprietary software used in IDEMIA factories globally to industrialize smartcards. CPS installs embedded software in chip cards, enabling efficient personalization at scale.
 
-I am Product Owner of CPS. It is a proprietary software used in worldwide IDEMIA factories to industrialize products. Specifically in the industrialization, CPS is used to install software in chip cards, part of cards personalization process.
+- 🌍 Serves factories on multiple continents
+- 💳 Handles millions of identity and payment cards annually
+- 🏗️ Improved end-to-end card throughput by 75%
 
+### 🏆 Innovathon Winner – Circular Economy in Smartcards ([Post](https://www.linkedin.com/posts/matteociocca_sustainability-innovation-daring-activity-6909524647956914176-79p2?utm_source=share&utm_medium=member_desktop&rcm=ACoAABN7odwBCTSkSQQbgUbxRNshm2Aiwhhjvqs))
+In less than 1 year at IDEMIA and no prior payments background, I co-developed **PARISMA**, a sustainable concept bridging circular economy principles with smartcard lifecycle. As team leader, I unified 2 business units and won the 2022 Innovathon.
 
-### Winner of IDEMIA Innovathon ([Post](https://www.linkedin.com/posts/matteociocca_sustainability-innovation-daring-activity-6909524647956914176-79p2?utm_source=share&utm_medium=member_desktop&rcm=ACoAABN7odwBCTSkSQQbgUbxRNshm2Aiwhhjvqs))
+- 🗣️ Presented the project to IDEMIA’s CEO and Executive Board
+- ♻️ Focused on eco-friendly card lifecycle
+- 🧠 Originated in internal innovation brainstorms
 
-It was a great opportunity that started by joining a weekly innovation brainstorming session. I had absolutely no background on payment systems and technology. But I got involved actively into this weekly until I was able to draft together with few folks a single page paper about a suistainable idea based on circular economy model. This was only 4 months after I joinied IDEMIA. And, just after completing the MAS Global CBDC Challenge hackathon, I put together a team that coupled 2 Business Units. This team, based on this idea called PARISMA, won the IDEMIA Innovathon in 2022. I personally presented PARISMA to the CEO and the Executive Board of IDEMIA.
+### 💡 Finalist – MAS Global CBDC Challenge ([Post](https://www.linkedin.com/feed/update/urn:li:activity:6863963277739732992/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6863963277739732992%29))
+Led a team of 25+ across 3 sites and 2 continents in the **Central Bank Digital Currency (CBDC)** challenge hosted by the Monetary Authority of Singapore.
 
-### Finalist of MAS Challenge ([Post](https://www.linkedin.com/feed/update/urn:li:activity:6863963277739732992/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6863963277739732992%29))
-
-Revealed during the 2021 MAS Global CBDC Challenge hackathon, this solution paves the way for the future of money by allowing everyone to use digital cash, anywhere and anytime.  
-
-This was my first time as Project Manager of a +25 team that spread across 2 continent and on more than 3 site. It was an incredible experience and I learnt a lot from it. My learning curve skyrocket during this period of time and it was clear to me that I wanted a more management career, I truly believed and still believe that is the right fit for me.
-
+- 🌐 Designed a cross-border digital cash prototype
+- 🤝 Partnered with ConsenSys to integrate blockchain tech
+- 📈 Sparked my transition from engineering to product management
 
 ## INRIA
 
-### Safe MPC-based Control for Self-Driving Transit Bus
+### Safe Control for Self-Driving Buses
+Developed an MPC-based motion planning system for autonomous transit buses, balancing passenger comfort and collision avoidance.
 
-Have you ever wondered how a self-driving Bus should decelerate and eventually stops to avoid collision without compromising the comforn of passengers? ([Article](https://inria.hal.science/hal-03193874/document)).
-
+- 🛑 Introduced predictive stopping techniques
+- 📄 Read the ([Article](https://inria.hal.science/hal-03193874/document))
 
 ## IIT
 
-### Walking on Uneven Terrain
+### Humanoid Locomotion & Torque Estimation
+- Optimized joint torque estimation for iCub humanoid robot
+- Co-authored work on stable foot placement on uneven terrain ([Article](https://ieeexplore.ieee.org/abstract/document/7803270))
 
-I was co-author of a work on optimal impedances for completing a safe and stable foothold in uneven terrain ([Article](https://ieeexplore.ieee.org/abstract/document/7803270)).
+## perClass ([website](https://www.perclass.com/))
 
-### Joint Torque Estimation
+### ML for Spectral Imaging
+Internship focused on improving a machine learning–based gender classifier for spectral image data.
 
-My work focus on the Estimataion of Joint Torque at Knee Level of Humanoid Robot iCub. Internal report was provided, hands-on real humanoid robot and performed several experiments. 
-
-## perClass
-
-During my internship at [perClass](https://www.perclass.com/) in Delft, I worked on improving a** machine learning-based gender classifier** for spectral image interpretation. My role involved developing and fine-tuning algorithms to enhance classification accuracy, making the model more robust and reliable.
-
-One of the highlights of this experience was showcasing the improved solution at two **worldwide trade fairs in Munich and Eindhoven**, where I engaged with industry professionals and potential clients. This not only strengthened my technical skills in machine learning and image processing but also gave me exposure to presenting complex AI-driven solutions in a business-oriented environment.
-
-The project contributed to refining **perClass' MATLAB toolbox**, a key product used in spectral imaging applications. Through this experience, I developed a strong understanding of data-driven product development, combining research insights with real-world applications to enhance a commercial software solution.
-
-### Gender Classifier
-
-The image acquisition and face detection are performed by OpenCV. perClass then classifies each face region as male or female. The application can run in a laptop with an embedded camera. Furthermore the application was showed at the Vision trade fair in Stuttgart using an industrial computer (Advantech) with Matrix-Vision industrial mvBlueCOUGAR-X102eC camera ([Video](https://www.youtube.com/watch?v=nifuKmc8FPQ)).
+- 🧠 Fine-tuned models to improve classification accuracy
+- 🌍 Demoed live at trade fairs in Munich and Eindhoven ([Video](https://www.youtube.com/watch?v=nifuKmc8FPQ))
+- 📦 Contributed to core features in perClass’ MATLAB toolbox
 
 ## [Back to CV](https://teoka.github.io/career/CV.html)
 ## [Back to Main Page](https://teoka.github.io)
