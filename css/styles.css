@@ -1,3 +1,7 @@
+html{
+    scroll-behavior: smooth;
+}
+
 /* Basic resets and background */
 body {
   margin: 0;
