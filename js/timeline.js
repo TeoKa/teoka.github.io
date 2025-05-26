@@ -44,11 +44,6 @@ timelineData.forEach(item => {
   container.appendChild(div);
 });
 
-// Dark mode toggle
-document.getElementById('theme-toggle').addEventListener('click', () => {
-  document.body.classList.toggle('dark-mode');
-});
-
 // Scroll animation using Intersection Observer
 const observer = new IntersectionObserver((entries) => {
   entries.forEach(entry => {
