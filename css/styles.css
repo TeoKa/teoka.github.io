@@ -147,9 +147,16 @@ body {
 }
 
 /* Responsive: stack timelines on mobile */
+/* Experience first (order: 0), Education second (order: 1) */
 @media (max-width: 768px) {
   .timelines-container {
     flex-direction: column;
+  }
+  .experience-timeline {
+    order: 0;
+  }
+  .education-timeline {
+    order: 1;
   }
   .welcome-section {
     justify-content: center;
