@@ -1,19 +1,15 @@
-/* Base styles */
-body {
+/* Reset & Base */
+* {
   margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #f9f9f9;
+  background-color: #e0f0ff; /* Light blue background */
   color: #222;
   line-height: 1.6;
-}
-
-h1, h2, h3 {
-  margin-top: 0;
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
 }
 
 /* Smooth scroll */
@@ -28,74 +24,80 @@ html {
   position: fixed;
   top: 0;
   width: 100%;
-  background-color: #ffffff;
-  border-bottom: 1px solid #ddd;
-  padding: 10px 20px;
+  background-color: #2978b5; /* Soft blue */
+  padding: 15px 30px;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  flex-wrap: wrap;
   z-index: 1000;
 }
 
 .navbar ul {
   display: flex;
   list-style: none;
-  gap: 20px;
-  margin: 0;
-  padding: 0;
+  gap: 30px;
+  flex-wrap: wrap;
 }
 
 .navbar a {
   font-weight: bold;
-  color: #333;
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
 }
 
 .navbar a:hover {
-  color: #007BFF;
+  color: #ffd700;
 }
 
-/* Dark mode navbar */
-body.dark-mode .navbar {
-  background-color: #1f1f1f;
-  border-bottom: 1px solid #444;
-}
-
-body.dark-mode .navbar a {
-  color: #f0f0f0;
-}
-
-body.dark-mode .navbar a:hover {
-  color: #90caf9;
-}
-
-/* Dark mode toggle button */
 #theme-toggle {
-  font-size: 1.4em;
+  font-size: 1.2em;
   background: none;
   border: none;
+  color: #fff;
   cursor: pointer;
 }
 
 /* ====================
-   LAYOUT SECTIONS
+   SECTIONS
 ==================== */
 section {
-  padding: 100px 20px 60px;
-  scroll-margin-top: 80px;
+  padding: 120px 20px 60px;
+  scroll-margin-top: 90px;
 }
 
+/* Centered layout */
 .centered-section {
-  text-align: center;
-  max-width: 800px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
 /* ====================
-   AVATAR IMAGE
+   WELCOME SECTION
 ==================== */
-.avatar-container {
+#welcome {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
   text-align: center;
-  margin-top: 40px;
+}
+
+.welcome-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+
+.avatar-text {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 40px;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .avatar-container img {
@@ -107,7 +109,7 @@ section {
 }
 
 /* ====================
-   TIMELINE STYLING
+   TIMELINE
 ==================== */
 .timeline {
   border-left: 3px solid #007BFF;
@@ -154,7 +156,7 @@ section {
 }
 
 /* ====================
-   ANIMATIONS
+   ANIMATION + DARK MODE
 ==================== */
 .fade-in {
   opacity: 0;
@@ -167,11 +169,16 @@ section {
   transform: translateY(0);
 }
 
-/* ====================
-   DARK MODE STYLES
-==================== */
 body.dark-mode {
   background-color: #121212;
+  color: #f0f0f0;
+}
+
+body.dark-mode .navbar {
+  background-color: #1f1f1f;
+}
+
+body.dark-mode .navbar a {
   color: #f0f0f0;
 }
 
