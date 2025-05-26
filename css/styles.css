@@ -112,3 +112,34 @@ h2 {
     font-size: 1.2em;
   }
 }
+
+/* Toggle button */
+#theme-toggle {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  font-size: 1.4em;
+  background: none;
+  border: none;
+  cursor: pointer;
+  z-index: 1000;
+}
+
+/* Dark mode styles */
+body.dark-mode {
+  background-color: #121212;
+  color: #f0f0f0;
+}
+
+body.dark-mode .timeline {
+  border-color: #90caf9;
+}
+
+body.dark-mode .timeline-icon {
+  border-color: #90caf9;
+  color: #90caf9;
+}
+
+body.dark-mode .timeline-content h3 {
+  color: #90caf9;
+}
