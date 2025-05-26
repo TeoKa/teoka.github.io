@@ -38,3 +38,8 @@ timelineData.forEach(item => {
 
   container.appendChild(div);
 });
+
+// Toggle dark mode
+document.getElementById('theme-toggle').addEventListener('click', () => {
+  document.body.classList.toggle('dark-mode');
+});
