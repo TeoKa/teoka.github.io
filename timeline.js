@@ -1,3 +1,4 @@
+// Timeline data with icons
 const timelineData = [
   {
     title: "Software Engineer at XYZ Corp",
@@ -19,6 +20,7 @@ const timelineData = [
   }
 ];
 
+// Inject timeline items into DOM
 const container = document.getElementById('timeline-container');
 
 timelineData.forEach(item => {
@@ -39,7 +41,21 @@ timelineData.forEach(item => {
   container.appendChild(div);
 });
 
-// Toggle dark mode
+// Dark mode toggle
 document.getElementById('theme-toggle').addEventListener('click', () => {
   document.body.classList.toggle('dark-mode');
+});
+
+// Scroll animation using Intersection Observer
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('visible');
+      observer.unobserve(entry.target);
+    }
+  });
+}, { threshold: 0.1 });
+
+document.querySelectorAll('.fade-in').forEach(el => {
+  observer.observe(el);
 });
