@@ -9,11 +9,10 @@
   <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
-    integrity="sha512-pOZaq8RfTFQ2TyIthqfnQzT6Xzp2hCC8RYTih5w8W9Pq/lC3d1GP9kQ/Oe2Px9e6bKnXQgT5Zs7SKiHYQmrRg=="
+    integrity="sha512-dvYl0kU5i45WzA8ZcsnVrpi0GcCcvHd7qJXaxp6O2jwDcRkzC2iZj+wPZx4BfqRzGvsO9p2AAGb9Yw7oEj0+DQ=="
     crossorigin="anonymous"
     referrerpolicy="no-referrer"
   />
-
 
   <!-- Your CSS file inside css folder -->
   <link rel="stylesheet" href="css/styles.css" />
@@ -37,10 +36,19 @@
     </div>
   </section>
 
-  <!-- About Me with timeline -->
-  <section id="about" class="centered-section">
+  <!-- About Me with two timelines -->
+  <section id="about" class="centered-section about-section">
     <h2>About Me</h2>
-    <div id="timeline-container" class="timeline"></div>
+    <div class="timelines-container">
+      <div class="timeline experience-timeline">
+        <h3>Experience</h3>
+        <div id="timeline-experience-container" class="timeline-items"></div>
+      </div>
+      <div class="timeline education-timeline">
+        <h3>Education</h3>
+        <div id="timeline-education-container" class="timeline-items"></div>
+      </div>
+    </div>
   </section>
 
   <!-- Portfolio Section -->
