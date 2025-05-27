@@ -42,14 +42,14 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       title: "Doctor of Philosophy (Ph.D.) in Robotics, Grenoble",
       date: "2017 – 2020",
-      description: "Explored real-time decision-making and safety for bipedal robots navigating crowded environments.",
+      description: "Explored real-time decision-making and safety for bipedal robots navigating crowded environments (<a href="https://theses.hal.science/tel-03065088/file/CIOCCA_2020_archivage.pdf" target="_blank" rel="noopener noreferrer">Thesis</a>).",
       icon: "fa-solid fa-graduation-cap",
       skills: ["Model Predictive Control", "Optimization", "MATLAB"]
     },
     {
       title: "Master of Science (MSc) in Systems and Control, Delft",
       date: "2013 – 2016",
-      description: "Studied advance Control Theory and Hands-On Experience on Robotics Set-ups",
+      description: "Studied advance Control Theory and Hands-On Experience on Robotics Set-ups (<a href="https://repository.tudelft.nl/record/uuid:eb594e24-3fdc-47cc-b006-b5e96e4e8006" target="_blank" rel="noopener noreferrer">Thesis</a>)",
       icon: "fa-solid fa-graduation-cap",
       skills: ["Control Theory", "MATLAB", "Teamwork"]
     },
