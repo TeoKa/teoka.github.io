@@ -8,28 +8,28 @@ document.addEventListener("DOMContentLoaded", function () {
       skills: ["JIRA", "Product Lifecycle", "Excel"]
     },
     {
-      title: "R&D Engineer at IDEMIA",
+      title: "R&D Engineer at IDEMIA, Paris",
       date: "November 2020 – Dec 2021",
       description: "Led CBDC project in partnership with ConsenSys. Won IDEMIA Innovathon with sustainable product concept. Halved test execution time by expanding Python/Java frameworks.",
       icon: "fa-solid fa-desktop",
       skills: ["Python", "Project Management", "Innovation"]
     },
     {
-      title: "Researcher at INRIA",
+      title: "Researcher at INRIA, Grenoble",
       date: "January 2017 – September 2020",
       description: "Published robotics research in motion safety and autonomous navigation. Contributed to control frameworks for humanoid robots",
       icon: "fa-solid fa-desktop",
       skills: ["Optimization", "Model Predictive Control", "Motion Safety"]
     },
     {
-      title: "Robotics Engineer Intern at IIT",
+      title: "Robotics Engineer Intern at IIT, Genoa",
       date: "April 2016 – November 2016",
       description: "Torque estimation for iCub humanoid.",
       icon: "fa-solid fa-desktop",
       skills: ["iCub", "Torque Estimation", "MATLAB"]
     },
     {
-      title: "ML Engineer Intern at perClass",
+      title: "ML Engineer Intern at perClass, Delft",
       date: "September 2014 – December 2014",
       description: "ML model deployment and product demos for spectral imaging.",
       icon: "fa-solid fa-desktop",
@@ -40,21 +40,21 @@ document.addEventListener("DOMContentLoaded", function () {
 
   const educationData = [
     {
-      title: "Doctor of Philosophy (Ph.D.) in Robotics",
+      title: "Doctor of Philosophy (Ph.D.) in Robotics, Grenoble",
       date: "2017 – 2020",
       description: "Explored real-time decision-making and safety for bipedal robots navigating crowded environments.",
       icon: "fa-solid fa-graduation-cap",
       skills: ["Model Predictive Control", "Optimization", "MATLAB"]
     },
     {
-      title: "Master of Science (MSc) in Systems and Control",
+      title: "Master of Science (MSc) in Systems and Control, Delft",
       date: "2013 – 2016",
       description: "Studied advance Control Theory and Hands-On Experience on Robotics Set-ups",
       icon: "fa-solid fa-graduation-cap",
       skills: ["Control Theory", "MATLAB", "Teamwork"]
     },
     {
-      title: "Bachelor of Science in Automation Engineering",
+      title: "Bachelor of Science in Automation Engineering, Milan",
       date: "2010 – 2013",
       description: "Studied core computer science, eletronics, economics and control theory concepts.",
       icon: "fa-solid fa-graduation-cap",
