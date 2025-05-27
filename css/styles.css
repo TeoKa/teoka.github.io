@@ -221,6 +221,50 @@ body {
   white-space: nowrap;
 }
 
+/* Download section styling */
+#download h2 {
+  color: #2c4a8a;
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.download-grid {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.download-card {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  padding: 1.5rem;
+  width: 180px;
+  text-align: center;
+  text-decoration: none;
+  color: #2c4a8a;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.download-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.2);
+}
+
+.download-card i {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+  display: block;
+  color: #2c4a8a;
+}
+
+.download-card span {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
 
 /* Responsive: stack timelines on mobile */
 /* Experience first (order: 0), Education second (order: 1) */
