@@ -205,6 +205,22 @@ body {
   color: #1d325e;
 }
 
+.skill-tags {
+  margin-top: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.skill-tag {
+  background-color: #eee;
+  color: #333;
+  font-size: 0.8rem;
+  padding: 0.3rem 0.6rem;
+  border-radius: 5px;
+  white-space: nowrap;
+}
+
 
 /* Responsive: stack timelines on mobile */
 /* Experience first (order: 0), Education second (order: 1) */
