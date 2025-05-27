@@ -3,49 +3,64 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       title: "Product Owner at IDEMIA, Paris",
       date: "January 2021 – Present",
-      description: "Working on full-stack web development projects, focusing on scalable and maintainable codebases.",
+      description: "Reduced card personalization time by 75% via software optimization. Led vision and feature prioritization for factory software used worldwide. Product installs software on 1M+ cards/year.",
       icon: "fa-solid fa-code",
-      skills: ["JavaScript", "Node.js", "React", "MongoDB"]
+      skills: ["JIRA", "Product Lifecycle", "Time & Resource Management"]
     },
     {
       title: "R&D Engineer at IDEMIA",
       date: "November 2020 – Dec 2021",
-      description: "Developed responsive user interfaces and collaborated with designers to enhance user experience.",
+      description: "Led CBDC project in partnership with ConsenSys. Won IDEMIA Innovathon with sustainable product concept. Halved test execution time by expanding Python/Java frameworks.",
       icon: "fa-solid fa-desktop",
-      skills: ["HTML", "CSS", "Vue.js", "UX"]
+      skills: ["Python", "Project Management", "Innovation"]
     },
     {
       title: "Researcher at INRIA",
       date: "January 2017 – September 2020",
-      description: "Developed responsive user interfaces and collaborated with designers to enhance user experience.",
+      description: "Published robotics research in motion safety and autonomous navigation. Contributed to control frameworks for humanoid robots",
       icon: "fa-solid fa-desktop",
-      skills: ["HTML", "CSS", "Vue.js", "UX"]
+      skills: ["Optimization", "Model Predictive Control", "Biped Robots"]
     },
     {
       title: "Robotics Engineer Intern at IIT",
       date: "April 2016 – November 2016",
-      description: "Developed responsive user interfaces and collaborated with designers to enhance user experience.",
+      description: "Torque estimation for iCub humanoid.",
       icon: "fa-solid fa-desktop",
-      skills: ["HTML", "CSS", "Vue.js", "UX"]
+      skills: ["iCub", "Torque Estimation", "Harmonic Drives"]
     },
     {
       title: "ML Engineer Intern at perClass",
       date: "September 2014 – December 2014",
-      description: "Developed responsive user interfaces and collaborated with designers to enhance user experience.",
+      description: "ML model deployment and product demos for spectral imaging.",
       icon: "fa-solid fa-desktop",
-      skills: ["HTML", "CSS", "Vue.js", "UX"]
+      skills: ["Supervised Learning", "Machine Learning", "Gender Classification"]
     }
     
   ];
 
   const educationData = [
     {
-      title: "Bachelor of Science in Computer Science",
-      date: "2016 – 2020",
-      description: "Studied core computer science concepts and participated in various coding competitions.",
+      title: "Doctor of Philosophy (Ph.D.) in Robotics",
+      date: "2017 – 2020",
+      description: "Conducted Research on MPC-based Safe Biped Robot Walking and Motion Planning",
       icon: "fa-solid fa-graduation-cap",
-      skills: ["Algorithms", "Data Structures", "C++", "Teamwork"]
+      skills: ["Model Predictive Control", "Optimization", "MATLAB", "Research"]
+    },
+    {
+      title: "Master of Science (MSc) in Systems and Control",
+      date: "2013 – 2016",
+      description: "Studied advance Control Theory and Hands-On Experience on Robotics Set-ups",
+      icon: "fa-solid fa-graduation-cap",
+      skills: ["Robotics", "Control Theory", "MATLAB", "Teamwork"]
+    },
+    {
+      title: "Bachelor of Science in Automation Engineering",
+      date: "2010 – 2013",
+      description: "Studied core computer science, eletronics, economics and control theory concepts.",
+      icon: "fa-solid fa-graduation-cap",
+      skills: ["Control Theory"]
     }
+    
   ];
 
     // ✅ Intersection Observer animation
