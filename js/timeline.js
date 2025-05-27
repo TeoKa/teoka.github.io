@@ -26,6 +26,16 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   ];
 
+    // ✅ Intersection Observer animation
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+        observer.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.1 });
+
   function createTimeline(containerId, items) {
     const container = document.getElementById(containerId);
     items.forEach(item => {
@@ -34,7 +44,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
       el.innerHTML = `
         <div class="timeline-icon">
-          <i class="fas ${item.icon}"></i>
+          <i class="${item.icon}"></i>
         </div>
         <div class="timeline-content">
           <h4>${item.title}</h4>
@@ -47,6 +57,8 @@ document.addEventListener("DOMContentLoaded", function () {
       `;
 
       container.appendChild(el);
+      observer.observe(el); // observe as it's added
+
     });
   }
 
@@ -54,20 +66,5 @@ document.addEventListener("DOMContentLoaded", function () {
   createTimeline('timeline-experience-container', experienceData);
   createTimeline('timeline-education-container', educationData);
 
-  // ✅ Intersection Observer animation
-  const observer = new IntersectionObserver((entries) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        entry.target.classList.add('visible');
-        observer.unobserve(entry.target);
-      }
-    });
-  }, { threshold: 0.1 });
 
-  // ✅ Wait for timeline items to be added to DOM
-  setTimeout(() => {
-    document.querySelectorAll('.timeline-item').forEach(el => {
-      observer.observe(el);
-    });
-  }, 100);
 });
