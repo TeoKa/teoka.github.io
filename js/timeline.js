@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
       date: "January 2021 – Present",
       description: "Reduced card personalization time by 75% via software optimization. Led vision and feature prioritization for factory software used worldwide. Product installs software on 1M+ cards/year.",
       icon: "fa-solid fa-code",
-      skills: ["JIRA", "Product Lifecycle", "Time & Resource Management"]
+      skills: ["JIRA", "Product Lifecycle", "Excel"]
     },
     {
       title: "R&D Engineer at IDEMIA",
@@ -19,21 +19,21 @@ document.addEventListener("DOMContentLoaded", function () {
       date: "January 2017 – September 2020",
       description: "Published robotics research in motion safety and autonomous navigation. Contributed to control frameworks for humanoid robots",
       icon: "fa-solid fa-desktop",
-      skills: ["Optimization", "Model Predictive Control", "Biped Robots"]
+      skills: ["Optimization", "Model Predictive Control", "Motion Safety"]
     },
     {
       title: "Robotics Engineer Intern at IIT",
       date: "April 2016 – November 2016",
       description: "Torque estimation for iCub humanoid.",
       icon: "fa-solid fa-desktop",
-      skills: ["iCub", "Torque Estimation", "Harmonic Drives"]
+      skills: ["iCub", "Torque Estimation", "MATLAB"]
     },
     {
       title: "ML Engineer Intern at perClass",
       date: "September 2014 – December 2014",
       description: "ML model deployment and product demos for spectral imaging.",
       icon: "fa-solid fa-desktop",
-      skills: ["Supervised Learning", "Machine Learning", "Gender Classification"]
+      skills: ["Supervised Learning", "Machine Learning", "MATLAB"]
     }
     
   ];
@@ -42,16 +42,16 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       title: "Doctor of Philosophy (Ph.D.) in Robotics",
       date: "2017 – 2020",
-      description: "Conducted Research on MPC-based Safe Biped Robot Walking and Motion Planning",
+      description: "Explored real-time decision-making and safety for bipedal robots navigating crowded environments.",
       icon: "fa-solid fa-graduation-cap",
-      skills: ["Model Predictive Control", "Optimization", "MATLAB", "Research"]
+      skills: ["Model Predictive Control", "Optimization", "MATLAB"]
     },
     {
       title: "Master of Science (MSc) in Systems and Control",
       date: "2013 – 2016",
       description: "Studied advance Control Theory and Hands-On Experience on Robotics Set-ups",
       icon: "fa-solid fa-graduation-cap",
-      skills: ["Robotics", "Control Theory", "MATLAB", "Teamwork"]
+      skills: ["Control Theory", "MATLAB", "Teamwork"]
     },
     {
       title: "Bachelor of Science in Automation Engineering",
