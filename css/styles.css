@@ -150,6 +150,62 @@ body {
   color: #444;
 }
 
+/* Skills section */
+#skills {
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+#skills h2 {
+  color: #2c4a8a;
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.skills-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.skill-card {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  padding: 1rem;
+  width: 100px;
+  text-align: center;
+  transition: transform 0.3s;
+}
+
+.skill-card:hover {
+  transform: translateY(-5px);
+}
+
+.skill-card i {
+  font-size: 2rem;
+  color: #2c4a8a;
+  margin-bottom: 0.5rem;
+}
+
+.skill-card span {
+  display: block;
+  font-size: 0.9rem;
+  color: #333;
+}
+
+.skill-card i {
+  transition: color 0.3s;
+}
+
+.skill-card:hover i {
+  color: #1d325e;
+}
+
+
 /* Responsive: stack timelines on mobile */
 /* Experience first (order: 0), Education second (order: 1) */
 @media (max-width: 768px) {
