@@ -34,17 +34,15 @@ document.addEventListener("DOMContentLoaded", function () {
 
       el.innerHTML = `
         <div class="timeline-icon">
-          <i class="${item.icon}"></i>
+          <i class="fas ${item.icon}"></i>
         </div>
         <div class="timeline-content">
           <h4>${item.title}</h4>
           <div class="date">${item.date}</div>
           <p>${item.description}</p>
-          ${item.skills ? `
-            <div class="skill-tags">
-              ${item.skills.map(skill => `<span class="skill-tag">${skill}</span>`).join('')}
-            </div>
-          ` : ''}
+          <div class="skill-tags">
+            ${(item.skills || []).map(skill => `<span class="skill-tag">${skill}</span>`).join('')}
+          </div>
         </div>
       `;
 
