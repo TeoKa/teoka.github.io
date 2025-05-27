@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       title: "R&D Engineer at IDEMIA, Paris",
       date: "November 2020 – Dec 2021",
-      description: "Led CBDC project in partnership with ConsenSys. Won IDEMIA Innovathon with sustainable product concept. Halved test execution time by expanding Python/Java frameworks.",
+      description: 'Led CBDC project in partnership with <a href="https://consensys.net" target="_blank" rel="noopener noreferrer">ConsenSys</a>. Won IDEMIA Innovathon with sustainable product concept. Halved test execution time by expanding Python/Java frameworks.',
       icon: "fa-solid fa-desktop",
       skills: ["Python", "Project Management", "Innovation"]
     },
