@@ -2,6 +2,11 @@ html{
     scroll-behavior: smooth;
 }
 
+section {
+  scroll-margin-top: 80px; /* Equal or slightly more than navbar height */
+}
+
+
 /* Basic resets and background */
 body {
   margin: 0;
