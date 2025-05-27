@@ -1,19 +1,41 @@
 document.addEventListener("DOMContentLoaded", function () {
   const experienceData = [
     {
-      title: "Software Engineer at XYZ Corp",
-      date: "Jan 2022 – Present",
+      title: "Product Owner at IDEMIA, Paris",
+      date: "January 2021 – Present",
       description: "Working on full-stack web development projects, focusing on scalable and maintainable codebases.",
       icon: "fa-solid fa-code",
       skills: ["JavaScript", "Node.js", "React", "MongoDB"]
     },
     {
-      title: "Frontend Developer at ABC Inc.",
-      date: "Jun 2020 – Dec 2021",
+      title: "R&D Engineer at IDEMIA",
+      date: "November 2020 – Dec 2021",
+      description: "Developed responsive user interfaces and collaborated with designers to enhance user experience.",
+      icon: "fa-solid fa-desktop",
+      skills: ["HTML", "CSS", "Vue.js", "UX"]
+    },
+    {
+      title: "Researcher at INRIA",
+      date: "January 2017 – September 2020",
+      description: "Developed responsive user interfaces and collaborated with designers to enhance user experience.",
+      icon: "fa-solid fa-desktop",
+      skills: ["HTML", "CSS", "Vue.js", "UX"]
+    },
+    {
+      title: "Robotics Engineer Intern at IIT",
+      date: "April 2016 – November 2016",
+      description: "Developed responsive user interfaces and collaborated with designers to enhance user experience.",
+      icon: "fa-solid fa-desktop",
+      skills: ["HTML", "CSS", "Vue.js", "UX"]
+    },
+    {
+      title: "ML Engineer Intern at perClass",
+      date: "September 2014 – December 2014",
       description: "Developed responsive user interfaces and collaborated with designers to enhance user experience.",
       icon: "fa-solid fa-desktop",
       skills: ["HTML", "CSS", "Vue.js", "UX"]
     }
+    
   ];
 
   const educationData = [
