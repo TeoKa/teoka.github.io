@@ -19,21 +19,36 @@
 </head>
 <body>
   <!-- Navbar -->
-  <nav class="navbar">
-    <div class="navbar-inner">
-      <a class="navbar-brand" href="#welcome">Matteo Ciocca</a>
-      <button id="navbar-toggle" class="navbar-toggle" type="button" aria-label="Open navigation menu" aria-controls="navbar-menu" aria-expanded="false">
-        <i class="fa-solid fa-bars"></i>
-      </button>
-      <ul id="navbar-menu" class="navbar-menu">
-        <li><a href="#welcome">Welcome</a></li>
-        <li><a href="#about">About Me</a></li>
-        <li><a href="#skills">Skills</a></li>
-        <li><a href="#portfolio">Portfolio</a></li>
-        <li><a href="#download">Download</a></li>
-      </ul>
-    </div>
-  </nav>
+	<nav class="navbar">
+	  <div class="navbar-inner">
+
+		<a class="navbar-brand" href="#welcome">
+		  Matteo Ciocca
+		</a>
+
+		<ul id="navbar-menu" class="navbar-menu">
+		  <li><a href="#welcome">Welcome</a></li>
+		  <li><a href="#about">About Me</a></li>
+		  <li><a href="#skills">Skills</a></li>
+		  <li><a href="#portfolio">Portfolio</a></li>
+		  <li><a href="#download">Download</a></li>
+		</ul>
+
+		<button
+		  id="navbar-toggle"
+		  class="navbar-toggle"
+		  type="button"
+		  aria-label="Open navigation menu"
+		  aria-controls="navbar-menu"
+		  aria-expanded="false"
+		>
+		  <span></span>
+		  <span></span>
+		  <span></span>
+		</button>
+
+	  </div>
+	</nav>
 
   <!-- Welcome section -->
   <section id="welcome" class="centered-section welcome-section">
@@ -259,28 +274,68 @@
 
   
   <!-- Your timeline.js inside js folder -->
-  <script src="js/timeline.js"></script>
+  <script src="js/timeline.js?v=20260920"></script>
 
-  <script>
-    const navbarToggle = document.getElementById("navbar-toggle");
-    const navbarMenu = document.getElementById("navbar-menu");
+<script>
+document.addEventListener("DOMContentLoaded", function () {
 
-    navbarToggle.addEventListener("click", function () {
-      const isOpen = navbarMenu.classList.toggle("show");
-      navbarToggle.setAttribute("aria-expanded", String(isOpen));
-      navbarToggle.innerHTML = isOpen
-        ? '<i class="fa-solid fa-xmark"></i>'
-        : '<i class="fa-solid fa-bars"></i>';
-    });
+  const navbarToggle = document.getElementById("navbar-toggle");
+  const navbarMenu = document.getElementById("navbar-menu");
 
-    navbarMenu.querySelectorAll("a").forEach(link => {
-      link.addEventListener("click", function () {
-        navbarMenu.classList.remove("show");
-        navbarToggle.setAttribute("aria-expanded", "false");
-        navbarToggle.innerHTML = '<i class="fa-solid fa-bars"></i>';
-      });
-    });
-  </script>
+  if (!navbarToggle || !navbarMenu) return;
+
+  navbarToggle.addEventListener("click", function () {
+
+    const open = navbarMenu.classList.toggle("open");
+
+    navbarToggle.classList.toggle("open", open);
+
+    navbarToggle.setAttribute(
+      "aria-expanded",
+      open ? "true" : "false"
+    );
+
+  });
+
+
+  /* Close after selecting a section */
+  navbarMenu.addEventListener("click", function (event) {
+
+    if (!event.target.closest("a")) return;
+
+    navbarMenu.classList.remove("open");
+    navbarToggle.classList.remove("open");
+
+    navbarToggle.setAttribute(
+      "aria-expanded",
+      "false"
+    );
+
+  });
+
+
+  /* Close if clicking outside navbar */
+  document.addEventListener("click", function (event) {
+
+    if (
+      navbarMenu.contains(event.target) ||
+      navbarToggle.contains(event.target)
+    ) {
+      return;
+    }
+
+    navbarMenu.classList.remove("open");
+    navbarToggle.classList.remove("open");
+
+    navbarToggle.setAttribute(
+      "aria-expanded",
+      "false"
+    );
+
+  });
+
+});
+</script>
   
 </body>
 </html>
