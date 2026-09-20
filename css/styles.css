@@ -484,8 +484,9 @@ body {
 /* Responsive: stack timelines on mobile */
 /* Experience first (order: 0), Education second (order: 1) */
 @media (max-width: 768px) {
+ /* Remove top/bottom padding so navbar height remains strictly 56px */
   .navbar {
-    padding: 0.65rem 1rem;
+    padding: 0 1rem;
   }
 
   .navbar-inner {
@@ -497,19 +498,20 @@ body {
     display: block;
   }
 
+  /* Position dropdown flush against the bottom of navbar */
   .navbar-menu {
     display: none;
-    position: absolute;
-    top: calc(100% + 0.65rem);
-    left: -1rem;
-    right: -1rem;
+    position: fixed;   /* Use fixed so it overlays correctly on scroll */
+    top: 56px;         /* Match exact navbar height */
+    left: 0;
+    right: 0;
     flex-direction: column;
     gap: 0;
     background: #2c4a8a;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.18);
   }
 
-  .navbar-menu.show {
+  .navbar-menu.open {
     display: flex;
   }
 
