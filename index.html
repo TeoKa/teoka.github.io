@@ -20,22 +20,28 @@
 <body>
   <!-- Navbar -->
   <nav class="navbar">
-    <ul>
-      <li><a href="#welcome">Welcome</a></li>
-      <li><a href="#about">About Me</a></li>
-      <li><a href="#skills">Skills</a></li>
-      <li><a href="#portfolio">Portfolio</a></li>
-      <li><a href="#download">Download</a></li>
-    </ul>
+    <div class="navbar-inner">
+      <a class="navbar-brand" href="#welcome">Matteo Ciocca</a>
+      <button id="navbar-toggle" class="navbar-toggle" type="button" aria-label="Open navigation menu" aria-controls="navbar-menu" aria-expanded="false">
+        <i class="fa-solid fa-bars"></i>
+      </button>
+      <ul id="navbar-menu" class="navbar-menu">
+        <li><a href="#welcome">Welcome</a></li>
+        <li><a href="#about">About Me</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#portfolio">Portfolio</a></li>
+        <li><a href="#download">Download</a></li>
+      </ul>
+    </div>
   </nav>
 
   <!-- Welcome section -->
   <section id="welcome" class="centered-section welcome-section">
-    <img src="images/ciocca_2025.JPG" alt="Avatar" class="avatar" />
+    <img src="images/ciocca_2026.JPG" alt="Avatar" class="avatar" />
     <div class="welcome-text">
       <h1>Welcome to my portfolio</h1>
       <p>
-        I'm a Product Owner with a Ph.D. in Robotics, blending deep technical expertise with product strategy to build high-impact, user-centric solutions. I thrive where innovation meets execution - especially in Payments, Automation, and Smart Software Systems. Contact me via <a href="https://www.linkedin.com/in/matteociocca/" target="_blank" rel="noopener noreferrer">LinkedIn</a>. Checkout my <a href="https://www.youtube.com/@matteociocca2033" target="_blank" rel="noopener noreferrer">YouTube Channel</a>.
+        Product Owner with 5 years of experience delivering B2B software and technical products in international environments. Experienced in product strategy, roadmap ownership, cross-functional leadership and translating customer needs into scalable technical solutions. Strong engineering and data background, bridging customers, business and R&amp;D teams. Based in Paris and open to relocation. Connect with me on <a href="https://www.linkedin.com/in/matteociocca/" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
       </p>
     </div>
   </section>
@@ -59,41 +65,68 @@
 <section id="skills" class="centered-section">
   <h2>Skills</h2>
   <div class="skills-grid">
-    <div class="skill-card">
-      <i class="fas fa-code"></i>
-      <span>Product Mgmt</span>
-    </div>
-    <div class="skill-card">
-      <i class="fas fa-database"></i>
-      <span>Python</span>
-    </div>
-    <div class="skill-card">
-      <i class="fas fa-robot"></i>
-      <span>Robotics</span>
-    </div>
-    <div class="skill-card">
-      <i class="fas fa-chart-line"></i>
-      <span>JIRA</span>
-    </div>
-    <div class="skill-card">
-      <i class="fas fa-lock"></i>
-      <span>Data Analysis</span>
-    </div>
-    <div class="skill-card">
-      <i class="fas fa-brain"></i>
-      <span>Team Mgmt</span>
-    </div>
-    <!-- Aggiungi altre skill a piacere -->
+    <div class="skill-card"><i class="fas fa-compass"></i><span>Product Strategy</span></div>
+    <div class="skill-card"><i class="fas fa-list-check"></i><span>Roadmap &amp; Backlog</span></div>
+    <div class="skill-card"><i class="fas fa-people-group"></i><span>Stakeholder Mgmt</span></div>
+    <div class="skill-card"><i class="fas fa-arrows-spin"></i><span>Agile / Scrum</span></div>
+    <div class="skill-card"><i class="fas fa-code"></i><span>Python &amp; C++</span></div>
+    <div class="skill-card"><i class="fas fa-plug"></i><span>APIs</span></div>
+    <div class="skill-card"><i class="fas fa-chart-line"></i><span>Data Analysis</span></div>
+    <div class="skill-card"><i class="fas fa-cloud"></i><span>Cloud / DevOps</span></div>
+    <div class="skill-card"><i class="fas fa-users-gear"></i><span>Cross-functional Leadership</span></div>
+    <div class="skill-card"><i class="fas fa-comments"></i><span>Customer Workshops</span></div>
   </div>
 </section>
 
-  
 <!-- Portfolio Section -->
 <section id="portfolio" class="centered-section">
   <h2>Portfolio</h2>
-  <p>Here are some of my projects...</p>
+  <p>Selected product, innovation and engineering projects from my experience.</p>
+  
+<div class="portfolio-container">
+
   
   <div class="portfolio-container">
+ 
+ 
+  <!-- Project 0 - BWI Product -->
+  <div class="portfolio-item">
+    <div class="portfolio-image">
+      <img src="images/bwi.png" alt="Project 0">
+    </div>
+
+    <div class="portfolio-content">
+      <h3>BWI Hydrological Monitoring & Forecasting Platform</h3>
+      <div class="date">2026 – Present</div>
+
+      <p>
+        Product Owner for the
+        <a href="https://app.bwi.earth/portal/" target="_blank" rel="noopener noreferrer">
+          BWI hydrological platform
+        </a>,
+        a B2B SaaS product providing river discharge and water-level monitoring
+        and forecasting capabilities. I own the product roadmap and backlog,
+        translating customer and business needs into scalable product features
+        while balancing technical constraints and R&amp;D capacity.
+      </p>
+
+      <p>
+        I coordinate a 14-person cross-functional team across software development,
+        hydrological modelling, data, satellite image processing and DevOps,
+        managing the product lifecycle from discovery and prioritization through
+        validation and release.
+      </p>
+
+      <div class="skill-tags">
+        <span class="skill-tag">Product Strategy</span>
+        <span class="skill-tag">Roadmap Management</span>
+        <span class="skill-tag">B2B SaaS</span>
+        <span class="skill-tag">Hydrology</span>
+        <span class="skill-tag">Cross-functional Leadership</span>
+      </div>
+    </div>
+  </div>
+  
     <!-- Project 1 -->
     <div class="portfolio-item">
       <div class="portfolio-image">
@@ -101,9 +134,9 @@
       </div>
       <div class="portfolio-content">
         <h3>Common Personalization System</h3>
-        <div class="date">2022 – Present</div>
+        <div class="date">2021 – 2026</div>
         <p>
-          Lead Product Owner for <a href="https://www.idemia.com/card-personalization-services" target="_blank" rel="noopener noreferrer">CPS</a>, proprietary software used in IDEMIA factories globally to industrialize smartcards. CPS installs embedded software in chip cards, enabling efficient personalization at scale. 🌍 Serves factories on multiple continents. 💳 Handles millions of identity and payment cards annually. 🏗️ Improved end-to-end card throughput by 75%
+          Owned the roadmap and lifecycle of <a href="https://www.idemia.com/card-personalization-services" target="_blank" rel="noopener noreferrer">CPS</a>, a software product supporting the personalization of more than 1 million payment and identity cards annually. Coordinated a technical team and global stakeholders across France and Asia, while reducing software provisioning time onto card chips by 75%.
         </p>
         <div class="skill-tags">
           <span class="skill-tag">Product Lifecycle Mgmt</span>
@@ -141,7 +174,7 @@
         <h3>🏆 Innovathon Winner – Circular Economy in Smartcards</h3>
         <div class="date">2021</div>
         <p>
-          In less than 1 year at IDEMIA and no prior payments background, I co-developed PARISMA (<a href="https://www.linkedin.com/posts/matteociocca_sustainability-innovation-daring-activity-6909524647956914176-79p2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABN7odwBCTSkSQQbgUbxRNshm2Aiwhhjvqs" target="_blank" rel="noopener noreferrer">Post</a>), a sustainable concept bridging circular economy principles with smartcard lifecycle. As team leader, I unified 2 business units and won the 2022 Innovathon. 🗣️ Presented the project to IDEMIA’s CEO and Executive Board. ♻️ Focused on eco-friendly card lifecycle. 🧠 Originated in internal innovation brainstorms.
+          Led the winning IDEMIA Innovathon project and developed an industrial approach designed to reduce the environmental impact of chip-card production by up to 80% (<a href="https://www.linkedin.com/posts/matteociocca_sustainability-innovation-daring-activity-6909524647956914176-79p2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABN7odwBCTSkSQQbgUbxRNshm2Aiwhhjvqs" target="_blank" rel="noopener noreferrer">Post</a>).
         </p>
         <div class="skill-tags">
           <span class="skill-tag">Leadership</span>
@@ -160,7 +193,7 @@
         <h3>💡 Finalist – MAS Global CBDC Challenge</h3>
         <div class="date">2021</div>
         <p>
-          Led a team of 25+ across 3 sites and 2 continents in the Central Bank Digital Currency (CBDC) challenge hosted by the Monetary Authority of Singapore (<a href="https://www.linkedin.com/feed/update/urn:li:activity:6863963277739732992/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6863963277739732992%29" target="_blank" rel="noopener noreferrer">Post</a>). 🌐 Designed a cross-border digital cash prototype. 🤝 Partnered with ConsenSys to integrate blockchain tech. 📈 Sparked my transition from engineering to product management
+          Led a CBDC innovation project with ConsenSys, coordinating an international multidisciplinary team for the Monetary Authority of Singapore Global CBDC Challenge (<a href="https://www.linkedin.com/feed/update/urn:li:activity:6863963277739732992/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6863963277739732992%29" target="_blank" rel="noopener noreferrer">Post</a>).
         </p>
         <div class="skill-tags">
           <span class="skill-tag">Leadership</span>
@@ -198,7 +231,7 @@
         <h3>ML-Gender Classifier</h3>
         <div class="date">2014</div>
         <p>
-          Internship focused on improving a machine learning–based gender classifier for spectral image data. 🧠 Fine-tuned models to improve classification accuracy. 🌍 Demoed live at trade fairs in Munich and Eindhoven (<a href="https://www.youtube.com/watch?v=nifuKmc8FPQ" target="_blank" rel="noopener noreferrer">Video</a>). 📦 Contributed to core features in perClass’ MATLAB toolbox
+          Improved a machine-learning classifier for spectral imaging and presented the solution at international trade fairs in Munich and Eindhoven (<a href="https://www.youtube.com/watch?v=nifuKmc8FPQ" target="_blank" rel="noopener noreferrer">Video</a>).
         </p>
         <div class="skill-tags">
           <span class="skill-tag">Machine Learning</span>
@@ -220,10 +253,6 @@
         <i class="fas fa-file-pdf"></i>
         <span>Download CV</span>
       </a>
-      <a href="https://github.com/TeoKa/teoka.github.io/blob/main/downloads/ciocca-matteo-intro.pdf" class="download-card" target="_blank">
-        <i class="fas fa-folder-open"></i>
-        <span>Introduction</span>
-      </a>
       <!-- Add more download cards as needed -->
     </div>
   </section>
@@ -233,9 +262,24 @@
   <script src="js/timeline.js"></script>
 
   <script>
-  document.getElementById("navbar-toggle").addEventListener("click", function () {
-    document.getElementById("navbar-menu").classList.toggle("show");
-  });
+    const navbarToggle = document.getElementById("navbar-toggle");
+    const navbarMenu = document.getElementById("navbar-menu");
+
+    navbarToggle.addEventListener("click", function () {
+      const isOpen = navbarMenu.classList.toggle("show");
+      navbarToggle.setAttribute("aria-expanded", String(isOpen));
+      navbarToggle.innerHTML = isOpen
+        ? '<i class="fa-solid fa-xmark"></i>'
+        : '<i class="fa-solid fa-bars"></i>';
+    });
+
+    navbarMenu.querySelectorAll("a").forEach(link => {
+      link.addEventListener("click", function () {
+        navbarMenu.classList.remove("show");
+        navbarToggle.setAttribute("aria-expanded", "false");
+        navbarToggle.innerHTML = '<i class="fa-solid fa-bars"></i>';
+      });
+    });
   </script>
   
 </body>
