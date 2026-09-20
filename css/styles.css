@@ -19,14 +19,31 @@ body {
 .navbar {
   position: fixed;
   top: 0;
+  left: 0;
   width: 100%;
-  background-color: #2c4a8a; /* not too dark blue */
+  background-color: #2c4a8a;
   padding: 0.75rem 1rem;
   box-sizing: border-box;
   z-index: 1000;
 }
 
-.navbar ul {
+.navbar-inner {
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.navbar-brand {
+  display: none;
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.navbar-menu {
   margin: 0;
   padding: 0;
   display: flex;
@@ -35,15 +52,25 @@ body {
   gap: 2rem;
 }
 
-.navbar ul li a {
+.navbar-menu li a {
   color: white;
   text-decoration: none;
   font-weight: bold;
   font-size: 1rem;
 }
 
-.navbar ul li a:hover {
+.navbar-menu li a:hover {
   text-decoration: underline;
+}
+
+.navbar-toggle {
+  display: none;
+  border: 0;
+  background: transparent;
+  color: white;
+  font-size: 1.35rem;
+  cursor: pointer;
+  padding: 0.35rem 0.5rem;
 }
 
 /* Sections central alignment */
@@ -337,17 +364,68 @@ body {
 /* Responsive: stack timelines on mobile */
 /* Experience first (order: 0), Education second (order: 1) */
 @media (max-width: 768px) {
+  .navbar {
+    padding: 0.65rem 1rem;
+  }
+
+  .navbar-inner {
+    justify-content: space-between;
+  }
+
+  .navbar-brand,
+  .navbar-toggle {
+    display: block;
+  }
+
+  .navbar-menu {
+    display: none;
+    position: absolute;
+    top: calc(100% + 0.65rem);
+    left: -1rem;
+    right: -1rem;
+    flex-direction: column;
+    gap: 0;
+    background: #2c4a8a;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.18);
+  }
+
+  .navbar-menu.show {
+    display: flex;
+  }
+
+  .navbar-menu li {
+    width: 100%;
+  }
+
+  .navbar-menu li a {
+    display: block;
+    padding: 0.9rem 1rem;
+    text-align: left;
+    border-top: 1px solid rgba(255, 255, 255, 0.14);
+  }
+
+  .centered-section {
+    margin-top: 72px;
+  }
+
   .timelines-container {
     flex-direction: column;
   }
+
   .experience-timeline {
     order: 0;
   }
+
   .education-timeline {
     order: 1;
   }
+
   .welcome-section {
     justify-content: center;
     text-align: center;
+  }
+
+  .skill-card {
+    width: min(120px, calc(50vw - 3rem));
   }
 }
