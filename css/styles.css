@@ -528,6 +528,12 @@ body {
     margin-top: 72px;
   }
 
+  .welcome-section {
+    padding-top: 2rem; /* Creates comfortable spacing below the navbar */
+    justify-content: center;
+    text-align: center;
+  }    
+
   .timelines-container {
     flex-direction: column;
   }
